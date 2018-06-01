@@ -1,6 +1,6 @@
 /* To start the flow cosmic must be at Booking - Planlagte aktiviteter. */
 /* Selection criteria to find bookings must be set and run */
-/* sdlkfsdlfj - self*/
+/* sdlkfsdlfj - self    */
 
 var commandline = true;
 if (commandline) {
