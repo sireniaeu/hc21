@@ -1,0 +1,1 @@
+Debug.showDialog("Hello "+Inputs["SearchText"]);

@@ -1,0 +1,1 @@
+http://10.221.19.10:9180/cardreader/reader.jsp?id=SHSOEJE

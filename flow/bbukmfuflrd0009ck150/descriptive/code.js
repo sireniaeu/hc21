@@ -1,0 +1,1 @@
+Debug.showDialog("max: "+Window.isMaximized()+", min: "+Window.isMinimized());

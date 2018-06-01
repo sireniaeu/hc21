@@ -1,0 +1,1 @@
+**/cambiopanel_soc/CambioPanel/WarningComponent/WarningObservationPanel/CambioPanel/CambioButton
