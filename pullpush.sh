@@ -5,4 +5,4 @@ while true
   do
     git pull vs master && git push github master
     git pull github master && git push vs master
-  done
+done
