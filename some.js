@@ -84,6 +84,8 @@ for (var i = 0; i < bookingtable.rows.length; i++) {
 
 function extractPatientData(bookingtable) {
     var inputPatient = new Object();
+    console.log(JSON.stringify(inputPatient));
+    Fields["helloField"].click();
     inputPatient.cprNumber = bookingtable.rows[i]["CPR-nr."].replace(/-/, ''); // Strip - from cpr
     var nameseg = bookingtable.rows[i]["Navn"].split(",");
     inputPatient.firstName = nameseg[1]; // Only used in case of pt creation
