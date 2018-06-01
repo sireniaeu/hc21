@@ -1,1 +1,1 @@
-Storage for the housing demo
+Storage for the housing demo.
