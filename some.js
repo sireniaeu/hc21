@@ -1,5 +1,6 @@
 /* To start the flow cosmic must be at Booking - Planlagte aktiviteter. */
 /* Selection criteria to find bookings must be set and run */
+/* sdlkfsdlfj */
 
 var commandline = true;
 if (commandline) {
@@ -33,9 +34,9 @@ if (commandline) {
     var b0 = {
         "CPR-nr.": "101010-1010",
         "Navn": "John Doe",
-        "Køn": "Male",
+        "KÃ¸n": "Male",
         "Lokalitet": "DK_Stue 1",
-        "Aktivitet": "Højre Knæ",
+        "Aktivitet": "HÃ¸jre KnÃ¦",
         "Book. dato": Date.now(),
     };
 
@@ -43,7 +44,7 @@ if (commandline) {
         var b1 = {
             "CPR-nr." :  "121212-1212",
             "Navn": "Jane Doe",
-            "Køn" : "Female",
+            "KÃ¸n" : "Female",
             "Lokalitet" : "DK_Stue 1",
             "Aktivitet" : "Venstre Arm",
             "Book. dato" : Date.now(),
@@ -64,7 +65,7 @@ if (commandline) {
 for (var i = 0; i < bookingtable.rows.length; i++) {
 
     try {
-        Dialog.info('Række #' + i, JSON.stringify(bookingtable.rows[i]));
+        Dialog.info('RÃ¦kke #' + i, JSON.stringify(bookingtable.rows[i]));
 
         // Extract data
         var inputPatient = extractPatientData(bookingtable);
@@ -88,13 +89,13 @@ function extractPatientData(bookingtable) {
     inputPatient.firstName = nameseg[1]; // Only used in case of pt creation
     inputPatient.familyName = nameseg[0]; // Only used in case of pt creation
     inputPatient.gender = "Unknown"; //  Only used in case of pt creation. Can be 'Female', 'Male' or 'Unknown'
-    if (bookingtable.rows[i]["Køn"] === "Man") {
+    if (bookingtable.rows[i]["KÃ¸n"] === "Man") {
     inputPatient.gender = "Male"; // Map COSMIC gender. Can be 'Man', 'Kvinna'. Maybe some form of unknown?
     } else {
-        if (bookingtable.rows[i]["Køn"] === "Kvinna") {
+        if (bookingtable.rows[i]["KÃ¸n"] === "Kvinna") {
         inputPatient.gender = "Female";
         } else {
-            Dialog.warn('Advarsel', 'Køn ukendt', {});
+            Dialog.warn('Advarsel', 'KÃ¸n ukendt', {});
         }
     }
     return inputPatient;
