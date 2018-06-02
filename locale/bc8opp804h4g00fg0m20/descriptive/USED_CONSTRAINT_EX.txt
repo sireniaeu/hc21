@@ -1,1 +1,0 @@
-For at {action} skal den først slettes fra {list}.
