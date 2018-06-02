@@ -1,0 +1,1 @@
+Invalid hotkey. It must contain at least one modifier key and one regular key.
