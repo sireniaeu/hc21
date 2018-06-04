@@ -1,4 +1,4 @@
-/* Data setup for Audiologiassistent til kald af C Sub hoerenotat */
+/* Data setup for Audiologiassistent til kald af C Sub hoerenotat  */
 
 var StdRetry = 10;
 Settings.CommandRetries = StdRetry;
