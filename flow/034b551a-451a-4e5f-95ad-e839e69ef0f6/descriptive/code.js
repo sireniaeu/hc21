@@ -45,6 +45,7 @@ try {
 // *** Catch User cancel  ***/
   //Noop
   //Blame Canada
+  
 }
 
 function getInput() {
