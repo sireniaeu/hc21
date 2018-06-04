@@ -43,6 +43,9 @@ try {
 
 } catch (e) {
 // *** Catch User cancel  ***/
+  //Noop
+  //Blame Canada
+  //Now
 }
 
 function getInput() {
