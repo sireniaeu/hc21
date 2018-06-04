@@ -30,17 +30,7 @@ var procedures = {
 //*** Create menu for selection of specific Standard OR procedure ***//
 //*******************************************************************//
 try {  
-  var w = true;
-  while (w) {
-      var Standard = Dialog.input("Region Syddanmark - OUH Øjenafdeling E", "Standard operationer", 
-                                  {buttons: [{ 'value': 'Cancel', 'isCancel': true }], 
-                                   'submitOnValidation': true,
-                                   "procedure": {"type": "RADIO", 
-                                                 "prompt": "Vælg operation", 
-                                                 "selectBetween": Object.keys(procedures)}
-                                  } );
-    w = false; 
-  }
+  getInput();
 
 //***********************************************//
 //*** Call subflow for the specific procedure ***//
@@ -53,4 +43,20 @@ try {
 
 } catch (e) {
 // *** Catch User cancel  ***/
+}
+
+function getInput() {
+    var w = true;
+    while (w) {
+        var Standard = Dialog.input("Region Syddanmark - OUH Øjenafdeling E", "Standard operationer", {
+        buttons: [{ 'value': 'Cancel', 'isCancel': true }],
+            'submitOnValidation': true,
+            "procedure": {
+            "type": "RADIO",
+                "prompt": "Vælg operation",
+                "selectBetween": Object.keys(procedures)
+            }
+        });
+        w = false;
+    }
 }
