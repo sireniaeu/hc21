@@ -1,0 +1,1 @@
+Dialog.info("Hello", "Greetings from Sirenia");

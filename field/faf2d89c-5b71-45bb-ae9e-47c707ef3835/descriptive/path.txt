@@ -1,0 +1,1 @@
+**/null.contentPane/DosageRootPanel/CambioPanel/MultipleMainDosagePanel/MultipleMainDosageCompressedPanel/CambioPanel/MultiTypeDosagePanel/CambioPanel/NormalSubDosagePanel/CambioPanel/DefaultDosageDurationPanel/CommentPanel/CambioScrollPane/JViewport/CambioTextArea

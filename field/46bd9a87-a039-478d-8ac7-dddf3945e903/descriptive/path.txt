@@ -1,0 +1,1 @@
+body > div.container > div > div.left.left-menu-container.ng-scope > ul > li.message_send_multiple > a > span
