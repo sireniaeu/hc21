@@ -1,1 +1,0 @@
-#directories > table:nth-child(2) > tbody > tr:nth-child(1) > td:nth-child(2) > a

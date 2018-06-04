@@ -1,1 +1,0 @@
-**/*contentPane/LPROverviewPanel/CambioSplitPane/LPROverviewDetailsPanel/CambioSplitPane/CambioScrollPane/JViewport/CambioTree

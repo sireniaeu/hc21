@@ -1,1 +1,0 @@
-**/null.contentPane/COccurrenceListMainPanel/COccurrenceListOptionPanel/CambioPanel/CambioPanel/CambioPanel/CambioPanel/CambioSelectionComboBox#1

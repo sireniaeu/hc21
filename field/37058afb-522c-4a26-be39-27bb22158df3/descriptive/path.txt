@@ -1,1 +1,0 @@
-**/JPanel/JournalFormSelectionEditorComponent/CambioPanel/CambioPanel/MultipleSelectPanel/CambioPanel/CambioPanel/CambioScrollPane/JViewport/CambioTable

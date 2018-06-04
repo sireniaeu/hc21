@@ -1,1 +1,0 @@
-#wrapper > section.wrapper.spotlight.style2.alt

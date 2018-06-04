@@ -1,1 +1,0 @@
-**/null.contentPane/JPopupMenu/CambioPanel/JCalendar/JPanel/JPanel/JMonthChooserSpin/JScrollBar

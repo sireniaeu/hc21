@@ -1,1 +1,0 @@
-Flow.run('Device input', { Puls: "120", Kliniker: "James-56" });
