@@ -1,1 +1,0 @@
-**/*JournalHeaderPanel*/**/CambioButton#0

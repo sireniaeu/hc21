@@ -1,1 +1,0 @@
-**/CambioPanel/JSplitPane/CambioPanel/CambioPanel/CambioPanel/WFocusPanel/CambioScrollPane/JViewport/CambioTable

@@ -1,1 +1,0 @@
-**/Samme ATC-kode/JPanel/JScrollPane

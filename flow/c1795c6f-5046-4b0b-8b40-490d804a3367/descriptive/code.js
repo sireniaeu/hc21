@@ -1,1 +1,0 @@
-App.navigate("http://srvesbappmus07v.rsyd.net/TestPage.asp?PID="+Inputs['cpr']+"&LastName=&FirstName=&Server1=on");
