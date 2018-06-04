@@ -1,0 +1,1 @@
+#ctl00_ctl00_contentBody > div.yr-content-title.clearfix > h1 > span > strong

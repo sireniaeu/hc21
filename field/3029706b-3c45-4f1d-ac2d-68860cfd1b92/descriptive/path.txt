@@ -1,0 +1,1 @@
+**/null.contentPane/DosageRootPanel/CambioPanel/MultipleMainDosagePanel/MultipleMainDosageCompressedPanel/CambioPanel/MultiTypeDosagePanel/CambioPanel/FreeTextSubDosagePanel/CambioPanel/DefaultDosageDurationPanel/NumericTextField

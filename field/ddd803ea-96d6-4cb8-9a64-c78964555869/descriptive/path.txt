@@ -1,0 +1,1 @@
+**/null.contentPane/JPanel/CambioPanel/CambioPanel/JLabel
