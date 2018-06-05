@@ -3,9 +3,7 @@ var t;
 
 null.editCell('', '', '', {});
 
-null.read();
-
-t = 0;
+t = null.read();
 
 null.editCell('', '', '', {});
 null.editCell('', '', '', {});
