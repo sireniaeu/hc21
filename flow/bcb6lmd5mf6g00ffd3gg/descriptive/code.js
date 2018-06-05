@@ -6,13 +6,13 @@ Window.sendKeys("{ENTER}");
 Wait.forMilliseconds(200);
 Window.sendKeys("flow");
 Window.sendKeys("{ENTER}");
-Wait.forMilliseconds(200);
+Wait.forMilliseconds(500);
 Window.sendKeys("bcb54");
 Window.sendKeys("{ENTER}");
-Wait.forMilliseconds(200);
+Wait.forMilliseconds(500);
 Window.sendKeys("descript");
 Window.sendKeys("{ENTER}");
-Wait.forMilliseconds(200);
+Wait.forMilliseconds(500);
 Window.sendKeys("type");
 Window.sendKeys("{ENTER}");
 
