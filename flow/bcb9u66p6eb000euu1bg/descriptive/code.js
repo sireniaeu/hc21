@@ -1,9 +1,9 @@
 var t;
 
 
-null.read();
-
 null.editCell('', '', '', {});
+
+null.read();
 
 t = 0;
 
