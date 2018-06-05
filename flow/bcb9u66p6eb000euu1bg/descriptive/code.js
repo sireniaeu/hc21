@@ -1,7 +1,9 @@
 var t;
 
 
-t = null.read().inspect({});
+for (var count = 0; count < 10; count++) {
+  t = null.read().inspect({});
+}
 
 null.editCell('', '', '', {});
 null.editCell('', '', '', {});
