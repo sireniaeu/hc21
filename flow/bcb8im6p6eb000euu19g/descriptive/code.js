@@ -1,4 +1,6 @@
+Fields["BLARG"];
+
 if (false) {
 }
 
-Fields["BLARG"] == 0;
+0 == 0;
