@@ -1,1 +1,1 @@
-**/Indstillinger/list
+**/Indstillinger/table
