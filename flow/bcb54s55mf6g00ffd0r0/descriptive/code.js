@@ -1,1 +1,1 @@
-Dialog.info('header', 'text', { 'timeout': 10 });
+Dialog.info('header', Fields["tbl_Programmer"].inspect(), { 'timeout': 10 });
