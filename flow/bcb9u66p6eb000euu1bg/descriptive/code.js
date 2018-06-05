@@ -11,7 +11,6 @@ function listsRepeat(value, n) {
 
 t = listsRepeat(null.read().inspect({}), 5);
 null.editCell('', '', '', {});
-
 null.editCell('', '', '', {});
 null.editCell('', '', '', {});
 null.editCell('', '', '', {});
