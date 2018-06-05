@@ -1,7 +1,25 @@
 //My test flow
 Fields["tree_sln_explorer"].highlight();
 Fields["tree_sln_explorer"].click();
-Window.sendKeys("{LEFT 10}");
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
+Wait.forMilliseconds(100);
+Window.sendKeys("{LEFT}");
 Window.sendKeys("{ENTER}");
 Wait.forMilliseconds(1000);
 Window.sendKeys("flow");
