@@ -1,4 +1,4 @@
-if ('HELLO' == Fields["BLARG"].read()) {
-  while (false) {
+if (false) {
+  while ('HELLO' == Fields["BLARG"].read()) {
   }
 }
