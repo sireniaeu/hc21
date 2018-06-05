@@ -13,9 +13,8 @@ t = listsRepeat(null.read().inspect({}), 5);
 
 for (var count = 0; count < 10; count++) {
   null.editCell('', '', '', {});
+  null.editCell('', '', '', {});
+  null.editCell('', '', '', {});
+  null.editCell('', '', '', {});
+  null.editCell('', '', '', {});
 }
-
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
