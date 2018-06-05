@@ -1,12 +1,12 @@
 var t;
 
 
-null.editCell('', '', '', {});
+null.read();
 
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
 null.editCell('', '', '', {});
 
 t = 0;
 
-null.read();
+null.editCell('', '', '', {});
+null.editCell('', '', '', {});
+null.editCell('', '', '', {});
