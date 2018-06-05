@@ -1,1 +1,1 @@
-Fields["tbl_Programmer"].highlight();
+Fields["tbl_Programmer"].highlightWithColor("blue");
