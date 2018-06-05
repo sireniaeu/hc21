@@ -2,6 +2,7 @@
 Fields["tree_sln_explorer"].highlight();
 Fields["tree_sln_explorer"].click();
 Window.sendKeys("{LEFT 10}");
+Window.sendKeys("{ENTER}");
 Wait.forMilliseconds(200);
 Window.sendKeys("flow");
 Window.sendKeys("{ENTER}");
