@@ -1,1 +1,1 @@
-Debug.ger(Fields["tbl_Programmer"].highlightWithColor("blue"));
+Debug.ger(Fields["tbl_Programmer"].inspect("blue"));
