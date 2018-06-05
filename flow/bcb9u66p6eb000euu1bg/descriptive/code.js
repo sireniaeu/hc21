@@ -1,11 +1,11 @@
 var t;
 
 
-t = null.read();
+t = 0;
 
 null.editCell('', '', '', {});
 
-null.inspect({});
+null.read().inspect({});
 
 null.editCell('', '', '', {});
 null.editCell('', '', '', {});
