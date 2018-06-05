@@ -9,11 +9,12 @@ function listsRepeat(value, n) {
 }
 
 
-listsRepeat(null.read().inspect({}), 5);
-
 for (var count = 0; count < 10; count++) {
-  t = 0;
 }
+
+t = 0;
+
+listsRepeat(null.read().inspect({}), 5);
 
 null.editCell('', '', '', {});
 null.editCell('', '', '', {});
