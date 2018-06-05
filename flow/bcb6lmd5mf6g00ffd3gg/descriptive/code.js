@@ -13,7 +13,8 @@ Wait.forMilliseconds(1000);
 Window.sendKeys("descript");
 Window.sendKeys("{ENTER}");
 Wait.forMilliseconds(1000);
-Window.sendKeys("type.txt");
+Window.sendKeys("app");
+Wait.forMilliseconds(500);
 Window.sendKeys("{ENTER}");
 
 //Wait.forMilliseconds(2000);
