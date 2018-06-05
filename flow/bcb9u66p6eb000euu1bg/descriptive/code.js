@@ -11,12 +11,11 @@ function listsRepeat(value, n) {
 
 t = listsRepeat(null.read().inspect({}), 5);
 
-null.editCell('', '', '', {});
-
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
-
 for (var count = 0; count < 10; count++) {
+  null.editCell('', '', '', {});
 }
+
+null.editCell('', '', '', {});
+null.editCell('', '', '', {});
+null.editCell('', '', '', {});
+null.editCell('', '', '', {});
