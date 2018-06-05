@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\application",
+    "\\field",
+    "\\field\\bcb54055mf6g00ffd0l0\\descriptive",
+    "\\field\\bcb6lbt5mf6g00ffd3g0",
+    "\\field\\bcb6lbt5mf6g00ffd3g0\\descriptive",
+    "\\flow",
+    "\\flow\\bcb54s55mf6g00ffd0r0",
+    "\\flow\\bcb6lmd5mf6g00ffd3gg",
+    "\\flow\\bcb6lmd5mf6g00ffd3gg\\descriptive"
   ],
-  "SelectedNode": "\\some.js",
+  "SelectedNode": "\\flow\\bcb6lmd5mf6g00ffd3gg\\descriptive\\code.js",
   "PreviewInSolutionExplorer": false
 }
