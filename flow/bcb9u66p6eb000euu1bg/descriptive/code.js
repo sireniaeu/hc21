@@ -5,8 +5,8 @@ t = null.read();
 
 null.editCell('', '', '', {});
 
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
-null.editCell('', '', '', {});
-
 null.inspect({});
+
+null.editCell('', '', '', {});
+null.editCell('', '', '', {});
+null.editCell('', '', '', {});
