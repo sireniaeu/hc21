@@ -1,2 +1,2 @@
-if (0 == Fields["BLARG"].read()) {
+if ('' == Fields["BLARG"].read()) {
 }
