@@ -1,4 +1,4 @@
-Fields["BLARG"];
+Fields["BLARG"].read();
 
 if (false) {
 }
