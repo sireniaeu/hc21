@@ -1,9 +1,8 @@
 var t;
 
 
-t = 0;
-
 null.editCell('', '', '', {});
+t = 0;
 
 null.editCell('', '', '', {});
 null.editCell('', '', '', {});
