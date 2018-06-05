@@ -1,1 +1,1 @@
-Debug.ger(Fields["tbl_Programmer"].inspect());
+No(Fields["tbl_Programmer"].inspect());
