@@ -1,9 +1,7 @@
 var t;
 
 
-t = 0;
-
-null.read().inspect({});
+t = null.read().inspect({});
 
 null.editCell('', '', '', {});
 null.editCell('', '', '', {});
