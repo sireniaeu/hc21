@@ -1,1 +1,2 @@
 null.editCell('', '', '', {});
+null.editCell('', '', '', {});
