@@ -1,6 +1,4 @@
-Fields["BLARG"].read();
-
 if (false) {
 }
 
-0 == 0;
+0 == Fields["BLARG"].read();
