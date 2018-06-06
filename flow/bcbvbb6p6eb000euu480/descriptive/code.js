@@ -1,3 +1,3 @@
 //Ensure that the user is logged in
 App.navigate("#");
-Wait.for
+Wait.forField(Fields["btn_pt_search"], 10);
