@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="sirenia_api_field_inspect" id="--WQ+F9k]C;AUY*]7~%A" x="50" y="460"></block></xml>
