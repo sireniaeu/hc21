@@ -7,4 +7,5 @@
 Window.sendKeys("%t");
 //select options
 Window.sendKeys("o");
-//
+//Select Env/Keyboard
+
