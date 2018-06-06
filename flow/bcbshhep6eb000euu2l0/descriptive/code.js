@@ -1,3 +1,3 @@
 //Debug.ger(Fields["table_table"].inspect({}));
-Fi
+Fields["input_search"].focus();
 Window.sendKeys("here u go");
