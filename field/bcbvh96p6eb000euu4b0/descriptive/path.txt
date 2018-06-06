@@ -1,1 +1,1 @@
-#pt_table > thead > tr:nth-child(1) > td:nth-child(1) > input
+<input aria-controls="pt_table" type="search" placeholder="">
