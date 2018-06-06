@@ -6,4 +6,5 @@
 //open tools menu
 Window.sendKeys("%t");
 //select options
-Window.sendKeys("%t");
+Window.sendKeys("o");
+
