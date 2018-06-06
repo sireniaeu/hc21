@@ -1,3 +1,3 @@
 Fields["list_list"].highlightWithColor("blue");
-var result = Fields["list_list"].inspect();
+Debug.get(Fields["list_list"].inspect());
 
