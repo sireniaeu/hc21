@@ -1,2 +1,2 @@
-Fields["list_list"].highlightWithColor(color);
+Fields["list_list"].highlightWithColor(blue);
 
