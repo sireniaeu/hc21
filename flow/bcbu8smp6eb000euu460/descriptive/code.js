@@ -9,3 +9,5 @@ Window.sendKeys("%t");
 Window.sendKeys("o");
 //Select Env/Keyboard
 Fields["tree_options_tree"].select("Env*/Quick*");
+//List select
+Fields[]
