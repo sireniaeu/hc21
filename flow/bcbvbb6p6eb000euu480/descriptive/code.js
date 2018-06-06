@@ -1,2 +1,2 @@
 //Ensure that the user is logged in
-fi
+App.navigate("http://dr.dk");
