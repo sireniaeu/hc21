@@ -1,0 +1,1 @@
+#pt_table > thead > tr:nth-child(1) > td:nth-child(3) > input
