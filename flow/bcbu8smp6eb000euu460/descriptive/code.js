@@ -11,3 +11,5 @@ Window.sendKeys("o");
 Fields["tree_options_tree"].select("Env*/Quick*");
 //List select Options
 Fields["list_list"].select("Options");
+//Cleanup
+Fields["tree_options_tree"].select("Env*/Quick*");
