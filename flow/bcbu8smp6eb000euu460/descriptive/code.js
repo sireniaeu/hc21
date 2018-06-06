@@ -4,4 +4,4 @@
 
 
 //
-Window.sendKeys("¨^ t");
+Window.sendKeys("^t");
