@@ -1,1 +1,0 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="sirenia_api_field_inspect" id="--WQ+F9k]C;AUY*]7~%A" x="50" y="460"><value name="field"><block type="sirenia_api_autofield" id="A(Ph0D[:LR+lX;!,X:JH"><field name="fieldName">table_table</field></block></value></block></xml>
