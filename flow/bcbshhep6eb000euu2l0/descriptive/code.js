@@ -1,3 +1,1 @@
-Fields["table_table"];
-
-null.inspect({});
+Fields["table_table"].inspect({});
