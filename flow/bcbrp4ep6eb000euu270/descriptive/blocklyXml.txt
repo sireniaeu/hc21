@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="sirenia_api_autofield" id="xxx!FZH{xc{d^[hj9xMP" x="16" y="10"><field name="fieldName">item_menus</field></block></xml>
