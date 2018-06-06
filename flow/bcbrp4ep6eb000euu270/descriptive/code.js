@@ -1,3 +1,1 @@
-Fields["item_menus"];
-
-null.click({});
+Fields["item_menus"].click({});
