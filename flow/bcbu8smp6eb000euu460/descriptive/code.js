@@ -4,4 +4,4 @@
 
 
 //
-Window.sendKeys();
+Window.sendKeys("");
