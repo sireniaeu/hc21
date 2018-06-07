@@ -10,6 +10,9 @@ if (isLoggedIn) {
   lookupPatient();
 }
 
+// Flow END
+
+
 //Function
 function ensureLoggedIn() {
   try {
