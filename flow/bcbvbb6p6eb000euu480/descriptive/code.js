@@ -2,4 +2,4 @@
 Wait.forField(Fields["btn_pt_search"], 20);
 Fields["btn_pt_search"].click();
 //Wait.forField(Fields["input_ssn_search"], 20);
-Fields["input_ssn_search"].input("121212-1212");
+Fields["input_ssn_search"].inputNative("121212-1212");
