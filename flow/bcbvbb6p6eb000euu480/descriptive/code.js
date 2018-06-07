@@ -8,7 +8,6 @@ ensurePatientFinderOpen();
 
 
 function ensurePatientFinderOpen() {
-
   try {
 
     //Test if PatientFinder is open
