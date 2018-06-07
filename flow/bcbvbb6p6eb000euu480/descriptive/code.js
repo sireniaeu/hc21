@@ -11,7 +11,7 @@ if (isLoggedIn) {
   ensurePatientFinderOpen();
 
   //Lookup Patient
-  lookupPatient();
+  lookupPatient(Inputs["SSNID"]);
 }
 
 //Done
