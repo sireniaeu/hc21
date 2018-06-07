@@ -28,6 +28,7 @@ function ensurePatientFinderOpen() {
   Fields["btn_pt_search"].click();
   //Test if PatientFinder is open
   Wait.forField(Fields["input_ssn_search"], 3);
+  //List is slow, so wait 
 }
 
 //Function
