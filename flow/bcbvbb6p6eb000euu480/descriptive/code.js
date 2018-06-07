@@ -1,5 +1,5 @@
 // =================
-// === Functions ===
+// === Main flow ===
 // =================
 
 //Ensure that the user is logged in
