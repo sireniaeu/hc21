@@ -3,7 +3,7 @@
 // =================
 
 //Bring to front
-App.focus();
+Window.focus();
 
 //If logged in
 if (isLoggedIn()) {
