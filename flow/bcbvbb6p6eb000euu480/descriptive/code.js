@@ -1,15 +1,15 @@
 //Ensure that the user is logged in
 var isLoggedIn = isLoggedIn();
 
-if(isLoggedIn){
-    
+if (isLoggedIn) {
 
-//Ensure Patient Finder is open
-ensurePatientFinderOpen();
 
-//Lookup Patient
-lookupPatient();
-    }
+  //Ensure Patient Finder is open
+  ensurePatientFinderOpen();
+
+  //Lookup Patient
+  lookupPatient();
+}
 
 //Function
 function ensureLoggedIn() {
