@@ -14,6 +14,8 @@ if (isLoggedIn) {
   lookupPatient();
 }
 
+
+
 // =================
 // === Functions ===
 // =================
