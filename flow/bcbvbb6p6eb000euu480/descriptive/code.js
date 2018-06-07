@@ -14,7 +14,7 @@ try{
 } catch (e)
   {
   Wait.forField(Fields["btn_pt_search"], 20);
-/Fields["btn_pt_search"].click();
+  Fields["btn_pt_search"].click();
     
   }
 }
