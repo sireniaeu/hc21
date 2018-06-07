@@ -1,4 +1,7 @@
-// === Start flow ===
+// =================
+// === Functions ===
+// =================
+
 //Ensure that the user is logged in
 var isLoggedIn = isLoggedIn();
 
