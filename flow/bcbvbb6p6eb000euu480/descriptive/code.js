@@ -5,7 +5,7 @@
 //Bring to front
 Window.focus();
 
-Fields["input_username"].exists()
+Fields["input_username"].exists();
 
 
 //If logged in
