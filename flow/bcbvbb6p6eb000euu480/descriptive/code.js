@@ -3,10 +3,9 @@
 // =================
 
 //Ensure that the user is logged in
-var isLoggedIn = isLoggedIn();
 
 //If logged in
-if (isLoggedIn) {
+if (isLoggedIn()) {
   //Ensure Patient Finder is open
   ensurePatientFinderOpen();
   //Lookup Patient from querystring 
