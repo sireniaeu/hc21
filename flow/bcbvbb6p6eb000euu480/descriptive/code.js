@@ -13,7 +13,8 @@ if (isLoggedIn) {
   //Lookup Patient
   lookupPatient();
 }
-// done
+
+//Done
 
 
 // =================
