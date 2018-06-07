@@ -5,7 +5,7 @@
 //Bring to front
 Window.focus();
 
-Debug.ger(Fields["input_username"].exists());
+Debug.ger();
 
 
 //If logged in
