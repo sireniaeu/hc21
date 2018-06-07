@@ -13,8 +13,8 @@ try{
   Wait.forField(Fields["input_ssn_search"], 1);
 } catch (e)
   {
-    //Wait.forField(Fields["btn_pt_search"], 20);
-//Fields["btn_pt_search"].click();
+  Wait.forField(Fields["btn_pt_search"], 20);
+/Fields["btn_pt_search"].click();
     
   }
 }
