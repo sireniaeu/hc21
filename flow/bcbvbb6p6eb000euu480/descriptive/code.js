@@ -16,6 +16,7 @@ function ensureLoggedIn() {
     Dialog.info('Login', 'You need to be logged in. Log in and run again.', {
       'timeout': 10
     });
+    
   } catch (e) {
     //No login prompt
     //Noop
