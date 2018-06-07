@@ -5,6 +5,8 @@
 //Bring to front
 Window.focus();
 
+exists
+
 //If logged in
 if (isLoggedIn()) {
   //Ensure Patient Finder is open
