@@ -5,6 +5,10 @@
 //Ensure Patient Finder is open
 ensurePatientFinderOpen();
 
+
+
+
+
 Wait.forField(Fields["input_ssn_search"], 3);
 //Wait.forMilliseconds(3000);
 Fields["input_ssn_search"].input("121212-1212");
