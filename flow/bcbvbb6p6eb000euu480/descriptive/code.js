@@ -33,8 +33,7 @@ function isLoggedIn() {
       return false;
     }
   }
-
-
+  
   return true;
 }
 
