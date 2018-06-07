@@ -38,6 +38,6 @@ function ensurePatientFinderOpen() {
 //Function
 function lookupPatient() {
   //Fields["input_ssn_search"].input("121212-1212");
-  Fields["input_ssn_search"].input("121212-1212");
+  Fields["input_ssn_search"].input(now());
   Fields["input_ssn_search"].inputNative(" ");
 }
