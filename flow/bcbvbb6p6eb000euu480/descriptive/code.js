@@ -1,5 +1,5 @@
 //Ensure that the user is logged in
-ensurePatientFinderOpen();
+ensureLogedIn();
 
 //Ensure Patient Finder is open
 ensurePatientFinderOpen();
