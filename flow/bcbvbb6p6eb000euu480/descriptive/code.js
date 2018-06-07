@@ -9,7 +9,7 @@ var isLoggedIn = isLoggedIn();
 if (isLoggedIn) {
   //Ensure Patient Finder is open
   ensurePatientFinderOpen();
-  //Lookup Patient from que
+  //Lookup Patient from querystring 
   lookupPatient(Inputs["SSNID"]);
 }
 
