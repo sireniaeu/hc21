@@ -21,7 +21,9 @@ if (isLoggedIn()) {
 
 //Function
 function isLoggedIn() {
-if ()
+if (Fields["input_ssn_search"]){
+    
+    }
   
   try {
     //We are at login prompt
