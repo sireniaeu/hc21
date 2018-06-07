@@ -22,8 +22,6 @@ if (isLoggedIn()) {
 //Function
 function isLoggedIn() {
   try {
-    //Test if loginprompt is open
-    Fields["input_username"].exists();
     //We are at login prompt
     Dialog.info('Login', 'You need to be logged in. Log in and run again.', {
       'timeout': 10
