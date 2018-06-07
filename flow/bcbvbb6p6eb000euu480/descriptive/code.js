@@ -8,8 +8,6 @@ if (isLoggedIn) {
 
   //Lookup Patient
   lookupPatient();
-  
-  
 }
 
 // Flow END
