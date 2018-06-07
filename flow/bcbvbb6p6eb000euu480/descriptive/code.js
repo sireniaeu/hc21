@@ -5,9 +5,10 @@
 ensurePatientFinderOpen();
 
 //Lookup Patient
-look
+lookupPatient();
 
 
+//Function
 function ensurePatientFinderOpen() {
   try {
 
