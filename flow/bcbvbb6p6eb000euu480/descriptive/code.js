@@ -21,6 +21,8 @@ if (isLoggedIn()) {
 
 //Function
 function isLoggedIn() {
+if(){}
+  
   try {
     //We are at login prompt
     Dialog.info('Login', 'You need to be logged in. Log in and run again.', {
