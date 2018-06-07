@@ -9,6 +9,8 @@ lookupPatient();
 
 //Function
 function ensurePatientFinderOpen() {
+  
+}
 
 //Function
 function ensurePatientFinderOpen() {
