@@ -21,7 +21,7 @@ if (isLoggedIn()) {
 
 //Function
 function isLoggedIn() {
-
+if ()
   
   try {
     //We are at login prompt
