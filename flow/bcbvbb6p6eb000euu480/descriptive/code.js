@@ -50,6 +50,6 @@ function ensurePatientFinderOpen() {
 //Function
 function lookupPatient() {
   //Fields["input_ssn_search"].input(Date.now());
-  Fields["input_ssn_search"].input(Inputs["SSNID"]);
+  Fields["input_ssn_search"].input();
   Fields["input_ssn_search"].inputNative(" ");
 }
