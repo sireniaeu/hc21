@@ -11,7 +11,7 @@ lookupPatient();
 function ensureLoggedIn() {
   try {
     //Test if loginprompt is open
-    Wait.forField(Fields["input_ssn_search"], 1);
+    Wait.forField(Fields["input_username"], 1);
     //We are at login prompt
     Dialog.info('Login', 'You need to be logged in. Log in and run again.', {
       'timeout': 10
