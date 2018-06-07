@@ -10,7 +10,7 @@ ensurePatientFinderOpen();
 function ensurePatientFinderOpen(){
 
 try{
-  /
+  //Test if 
   Wait.forField(Fields["input_ssn_search"], 3);
 } catch (e)
   {
