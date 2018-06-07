@@ -2,6 +2,8 @@
 // === Main flow ===
 // =================
 
+
+
 //If logged in
 if (isLoggedIn()) {
   //Ensure Patient Finder is open
