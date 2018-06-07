@@ -8,7 +8,7 @@ ensurePatientFinderOpen();
 lookupPatient();
 
 //Function
-function ensurePatientFinderOpen() {
+function ensureLoggedIn() {
   
 }
 
