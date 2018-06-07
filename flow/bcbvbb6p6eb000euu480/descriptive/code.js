@@ -9,7 +9,18 @@ lookupPatient();
 
 //Function
 function ensureLoggedIn() {
-
+  try {
+    //Test if loginprompt is open
+    Wait.forField(Fields["input_username"], 1);
+    //We are at login prompt
+    Dialog.info('Login', 'You need to be logged in. Log in and run again.', {
+      'timeout': 10
+    });
+    return false;
+  } catch (e) {
+    //No login prompt
+    return false;
+  }
 }
 
 //Function
