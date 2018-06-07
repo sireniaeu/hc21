@@ -6,17 +6,16 @@ ensurePatientFinderOpen();
 
 
 
-function ensurePatientFinderOpen(){
+function ensurePatientFinderOpen() {
 
-try{
-  
-  //Test if PatientFinder is open
-  Wait.forField(Fields["input_ssn_search"], 1);
-} catch (e)
-  {
-  Wait.forField(Fields["btn_pt_search"], 20);
-  Fields["btn_pt_search"].click();
-  
+  try {
+
+    //Test if PatientFinder is open
+    Wait.forField(Fields["input_ssn_search"], 1);
+  } catch (e) {
+    Wait.forField(Fields["btn_pt_search"], 20);
+    Fields["btn_pt_search"].click();
+
   }
 }
 //Wait.forMilliseconds(3000);
