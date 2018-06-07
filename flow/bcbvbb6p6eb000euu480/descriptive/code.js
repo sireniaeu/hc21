@@ -33,7 +33,7 @@ function isLoggedIn() {
       return false;
     }
   }
-  
+  //We are at login prompt
   return true;
 }
 
