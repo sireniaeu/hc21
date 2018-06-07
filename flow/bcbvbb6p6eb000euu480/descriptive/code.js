@@ -12,7 +12,8 @@ function ensureLoggedIn() {
     try {
     //Test if loginprompt is open
     Wait.forField(Fields["input_ssn_search"], 1);
-      
+      //We are at login prompt
+      Dialog.
   } catch (e) {
     Wait.forField(Fields["btn_pt_search"], 20);
     Fields["btn_pt_search"].click();
