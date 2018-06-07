@@ -29,7 +29,7 @@ function ensurePatientFinderOpen() {
   //Test if PatientFinder is open
   Wait.forField(Fields["input_ssn_search"], 3);
   //List is slow, so wait before return
-  Wait.forMilliseconds(1000);
+  Wait.forMilliseconds(2000);
 }
 
 //Function
