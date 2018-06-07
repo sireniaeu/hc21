@@ -4,7 +4,8 @@
 //Ensure Patient Finder is open
 ensurePatientFinderOpen();
 
-//Lookup 
+//Lookup Patient
+look
 
 
 function ensurePatientFinderOpen() {
