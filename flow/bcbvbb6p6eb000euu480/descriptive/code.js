@@ -2,7 +2,8 @@
 // === Main flow ===
 // =================
 
-//Bring o front
+//Bring to front
+App.focus();
 
 //If logged in
 if (isLoggedIn()) {
