@@ -21,3 +21,6 @@ function ensurePatientFinderOpen() {
     Wait.forField(Fields["input_ssn_search"], 3);
   }
 }
+
+//Function
+function loo
