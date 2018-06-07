@@ -30,7 +30,7 @@ function isLoggedIn() {
     });
     return false;
   } catch (e) {
-    //No login prompt
+    //Timeout on 
     return true;
   }
   return true;
