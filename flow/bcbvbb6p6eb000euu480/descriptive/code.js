@@ -24,11 +24,11 @@ function ensureLoggedIn() {
 
 //Function
 function ensurePatientFinderOpen() {
-    Wait.forField(Fields["btn_pt_search"], 3);
-    Fields["btn_pt_search"].click();
-    //Test if PatientFinder is open
-    Wait.forField(Fields["input_ssn_search"], 3);
- // }
+  Wait.forField(Fields["btn_pt_search"], 3);
+  Fields["btn_pt_search"].click();
+  //Test if PatientFinder is open
+  Wait.forField(Fields["input_ssn_search"], 3);
+  // }
 }
 
 //Function
