@@ -1,5 +1,5 @@
 //Ensure that the user is logged in
-var isLoensureLoggedIn();
+var isLoggedIn = isLoggedIn();
 
 //Ensure Patient Finder is open
 ensurePatientFinderOpen();
