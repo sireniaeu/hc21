@@ -21,6 +21,7 @@ function ensureLoggedIn() {
     //No login prompt
     return false;
   }
+  return true;
 }
 
 //Function
