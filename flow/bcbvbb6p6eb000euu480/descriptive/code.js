@@ -23,4 +23,10 @@ function ensurePatientFinderOpen() {
 }
 
 //Function
-function loo
+function lookupPatient(){
+  
+//Wait.forMilliseconds(3000);
+Fields["input_ssn_search"].input("121212-1212");
+Fields["input_ssn_search"].inputNative(" ");
+
+}
