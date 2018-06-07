@@ -5,11 +5,11 @@
 //Ensure Patient Finder is open
 ensurePatientFinderOpen();
 
-try
 
 
 function ensurePatientFinderOpen(){
 
+try{
   
   Wait.forField(Fields["input_ssn_search"], 3);
 
