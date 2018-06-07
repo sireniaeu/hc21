@@ -5,7 +5,7 @@
 //Ensure Patient Finder is open
 ensurePatientFinderOpen();
 
-
+try
 
 
 function ensurePatientFinderOpen(){
