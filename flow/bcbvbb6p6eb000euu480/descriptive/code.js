@@ -19,7 +19,7 @@ function ensureLoggedIn() {
     return false;
   } catch (e) {
     //No login prompt
-    //Noop
+    return false;
   }
 }
 
