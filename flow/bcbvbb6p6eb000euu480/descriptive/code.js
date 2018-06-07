@@ -6,6 +6,7 @@ ensurePatientFinderOpen();
 
 
 
+
 function ensurePatientFinderOpen() {
 
   try {
