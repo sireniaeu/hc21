@@ -30,7 +30,7 @@ function isLoggedIn() {
     });
     return false;
   } catch (e) {
-    //Timeout on 
+    //Timeout on dialog
     return true;
   }
   return true;
