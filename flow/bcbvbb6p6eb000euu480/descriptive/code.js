@@ -11,9 +11,6 @@ if (isLoggedIn) {
   lookupPatient();
 }
 
-// === End flow ===
-
-
 // =================
 // === Functions ===
 // =================
