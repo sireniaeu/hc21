@@ -8,11 +8,6 @@ ensurePatientFinderOpen();
 lookupPatient();
 
 //Function
-function ensureLoggedIn() {
-
-}
-
-//Function
 function ensurePatientFinderOpen() {
   Wait.forField(Fields["btn_pt_search"], 3);
   Fields["btn_pt_search"].click();
