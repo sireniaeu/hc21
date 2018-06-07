@@ -11,6 +11,7 @@ try {
   //No login prompt
   return false;
 }
+
 //Ensure Patient Finder is open
 ensurePatientFinderOpen();
 
