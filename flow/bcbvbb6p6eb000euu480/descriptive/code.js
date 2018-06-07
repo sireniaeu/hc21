@@ -14,7 +14,7 @@ if (isLoggedIn) {
 
 
 //Function
-function ensureLoggedIn() {
+function isLoggedIn() {
   try {
     //Test if loginprompt is open
     Wait.forField(Fields["input_username"], 1);
