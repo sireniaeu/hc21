@@ -21,7 +21,6 @@ if (isLoggedIn()) {
 
 //Function
 function isLoggedIn() {
-
   if (Fields["input_username"].exists()) {
     try {
       //We are at login prompt
