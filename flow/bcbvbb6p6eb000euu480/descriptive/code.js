@@ -1,4 +1,4 @@
-// Start flow ===
+// === Start flow ===
 //Ensure that the user is logged in
 var isLoggedIn = isLoggedIn();
 
