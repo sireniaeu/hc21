@@ -4,5 +4,5 @@ Fields["list_list"].select("Menus");
 Wait.forMilliseconds(1000);
 Fields["list_list"].select("Options");
 Wait.forMilliseconds(1000);
-Window.sendKeys(" ", { focus: false });
+Window.sendKeys("-", { focus: false });
 Wait.forMilliseconds(1000);
