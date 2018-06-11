@@ -7,6 +7,7 @@
 Window.sendKeys("%t");
 //select options
 Window.sendKeys("o");
+
 //Select Env/Keyboard
 Fields["tree_options_tree"].select("Environment/Quick*", {expand:true});
 //List select Options
