@@ -1,8 +1,3 @@
-
-
-
-
-
 //open tools menu
 Window.sendKeys("%t");
 //select options
