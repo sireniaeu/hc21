@@ -13,6 +13,6 @@ Fields["tree_options_tree"].select("Environment/Quick*", {expand:true});
 //List select Options
 Fields["list_list"].select("Options");
 // 
-
+Window.sendKeys("o");
 //Cleanup
 //Fields["tree_options_tree"].select("Env*");
