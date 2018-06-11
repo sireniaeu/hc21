@@ -12,7 +12,7 @@ Wait.forMilliseconds(1000);
 Fields["tree_options_tree"].select("Environment/Quick*", {expand:true});
 //List select Options
 Fields["list_list"].select("Options");
-// Deselect 
+// Deselect option 
 Window.sendKeys("-");
 //Cleanup
 //Fields["tree_options_tree"].select("Env*");
