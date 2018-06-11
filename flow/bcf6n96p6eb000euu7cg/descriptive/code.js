@@ -1,1 +1,1 @@
-Fields["root"].high
+Fields["root"].highlight();
