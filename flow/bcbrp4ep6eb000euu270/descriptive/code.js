@@ -1,5 +1,5 @@
 Fields["list_list"].highlightWithColor("blue");
-//Debug.ger(Fields["list_list"].inspect());
+Debug.ger(Fields["list_list"].inspect());
 Fields["list_list"].select("Menus");
 Wait.forMilliseconds(1000);
 Fields["list_list"].select("Options");
