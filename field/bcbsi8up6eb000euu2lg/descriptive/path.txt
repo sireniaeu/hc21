@@ -1,1 +1,1 @@
-**/Properties Window
+**/Properties Window/table
