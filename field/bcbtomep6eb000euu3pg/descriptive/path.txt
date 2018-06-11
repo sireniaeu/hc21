@@ -1,1 +1,1 @@
-**/tree
+**/(type)tree
