@@ -7,7 +7,7 @@ Wait.forMilliseconds(1000);
 Fields["tree_options_tree"].select("Environment/Quick*", {expand:true});
 //List select Options
 Fields["list_list"].select("Options");
-
+Fields["list_list"].focus();
 Wait.forMilliseconds(1000);
 // Deselect option
 Window.sendKeys("-", {focus:false});
