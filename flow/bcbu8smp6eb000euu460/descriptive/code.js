@@ -8,6 +8,6 @@ Fields["tree_options_tree"].select("Environment/Quick*", {expand:true});
 //List select Options
 Fields["list_list"].select("Options");
 // Deselect option
-Window.sendKeys("-");
+Window.sendKeys("-", {focus:false});
 //Cleanup
 //Fields["tree_options_tree"].select("Env*");
