@@ -30,8 +30,8 @@ Window.sendKeys("{TAB}");
 Window.sendKeys("1");
 Window.sendKeys("{TAB}");
 Window.sendKeys("100");
-
 Window.sendKeys("{ENTER}");
+
 Window.sendKeys("Two of these");
 Window.sendKeys("{ENTER}");
 Window.sendKeys("Some of those");
