@@ -68,7 +68,7 @@ Fields["input_CommentstextBox"].input(args.remarks);
 Fields["btn_ok"].click();
 
 //No, don't print
-Fields["bnt_cancel"].cl
+Fields["bnt_cancel"].click();
 
 //Go to list of PO
 Window.sendKeys("+%o");
