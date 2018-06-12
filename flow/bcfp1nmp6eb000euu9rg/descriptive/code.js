@@ -38,7 +38,7 @@ if (args.add_to_address){
 }
 
 //Add remarks
-in
+Fields["input_CommentstextBox"].
 
 //Execute po
 
