@@ -3,7 +3,7 @@ args = {};
 args.ref_no = Date.now();
 args.add_to_address = true;
 args.remarks = "Something here. " + Date.now();
-args.items = [{name:"One of these", amount:1, price:100}, {name:"One of these", amount:1, price:100}, {name:"One of these", amount:1, price:100}];
+args.items = [{name:"One of these", amount:1, price:100}, {name:"Two of these", amount:1, price:100}, {name:"One of these", amount:1, price:100}];
 
 
 //Click po menu
