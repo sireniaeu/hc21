@@ -2,6 +2,7 @@
 Fields["bnt_purchase"].highlight();
 Fields["bnt_purchase"].click({});
 
+//Open po 
 Window.sendKeys("+^o");
 Fields["table_datagrid"].highlight();
 Wait.forMilliseconds(1000);
