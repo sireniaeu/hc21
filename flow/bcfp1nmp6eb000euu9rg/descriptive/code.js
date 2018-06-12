@@ -1,5 +1,6 @@
 //Input params
-in
+args = new Object();
+args.
 
 
 //Click po menu
