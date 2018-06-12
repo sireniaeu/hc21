@@ -33,7 +33,7 @@ for (var item in args.items) {
   Window.sendKeys("{TAB}");
   Window.sendKeys(args.items[item.name]);
   Window.sendKeys("{TAB}");
-  Window.sendKeys("100");
+  Window.sendKeys(args.items[item.name]);
   Window.sendKeys("{TAB 3}");
   Wait.forMilliseconds(1000);
 }
