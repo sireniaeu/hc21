@@ -27,6 +27,11 @@ Fields["table_po_datagrid"].click();
 Window.sendKeys("{TAB}");
 Window.sendKeys("s");
 Window.sendKeys("{TAB}");
+Window.sendKeys("s");
+Window.sendKeys("{TAB}");
+Window.sendKeys("s");
+Window.sendKeys("{TAB}");
+Window.sendKeys("s");
 
 //Add ref
 //Fields["input_RefNotextBox"].highlight();
