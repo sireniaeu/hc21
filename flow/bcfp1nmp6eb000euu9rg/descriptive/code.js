@@ -12,8 +12,8 @@ Fields["bnt_purchase"].click({});
 Window.sendKeys("+^o");
 
 //Select Account. TODO:
-Fields["table_datagrid"].highlight();
-Wait.forMilliseconds(1000);
+//Fields["table_datagrid"].highlight();
+//Wait.forMilliseconds(1000);
 //Debug.ger(Fields["table_datagrid"]);
 
 //Click create po
