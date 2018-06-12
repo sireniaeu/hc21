@@ -21,11 +21,11 @@ Window.sendKeys("+^o");
 Fields.btn_create_po.click();
 
 //Add item lines. TODO:
-Fields["table_po_datagrid"].highlight();
+//Fields["table_po_datagrid"].highlight();
 //Debug.ger(Fields["table_po_datagrid"]);
 
 //Add ref
-Fields["input_RefNotextBox"].highlight();
+//Fields["input_RefNotextBox"].highlight();
 Fields["input_RefNotextBox"].input(args.ref_no);
 
 //Add Add to another add
