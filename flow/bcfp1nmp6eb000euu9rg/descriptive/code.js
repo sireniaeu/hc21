@@ -29,7 +29,7 @@ Window.sendKeys("One of these");
 Window.sendKeys("{ENTER}");
 Window.sendKeys("Two of these");
 Window.sendKeys("{ENTER}");
-Window.sendKeys("One of these");
+Window.sendKeys("Some of those");
 
 //Add ref
 //Fields["input_RefNotextBox"].highlight();
