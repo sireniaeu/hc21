@@ -45,7 +45,7 @@ for (var item in args.items) {
   Window.sendKeys("{TAB}");
   Window.sendKeys(args.items[item.amount]);
   Window.sendKeys("{TAB}");
-  Window.sendKeys(args.items[item.name]);
+  Window.sendKeys(args.items[item.price]);
   Window.sendKeys("{TAB 3}");
   Wait.forMilliseconds(1000);
 }
