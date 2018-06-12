@@ -1,2 +1,2 @@
 Fields["bnt_purchase"].click({});
-Window.sendKeys();
+Window.sendKeys("");
