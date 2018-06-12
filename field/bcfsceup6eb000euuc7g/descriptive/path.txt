@@ -1,1 +1,1 @@
-**/CancelDocbutton
+**/(id)CancelDocbutton
