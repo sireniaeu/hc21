@@ -29,7 +29,7 @@ Window.sendKeys("One of these");
 Window.sendKeys("{TAB}");
 Window.sendKeys("1");
 Window.sendKeys("{TAB}");
-Window.sendKeys("One of these");
+Window.sendKeys("100");
 
 Window.sendKeys("{ENTER}");
 Window.sendKeys("Two of these");
