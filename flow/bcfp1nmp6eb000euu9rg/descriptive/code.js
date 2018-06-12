@@ -27,7 +27,7 @@ Fields.btn_create_po.click();
 Fields["table_po_datagrid"].click();
 Window.sendKeys("{TAB}");
 
-for
+
 
 Window.sendKeys("One of these");
 Window.sendKeys("{TAB}");
