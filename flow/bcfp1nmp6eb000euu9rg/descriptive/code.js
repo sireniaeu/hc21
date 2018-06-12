@@ -9,5 +9,5 @@ Wait.forMilliseconds(1000);
 Wait.forField(Fields["btn_create_po"], 10);
 Fields.btn_create_po.click();
 
-Debug.ger(;
+Debug.ger(Fields["table_po_datagrid"]);
 
