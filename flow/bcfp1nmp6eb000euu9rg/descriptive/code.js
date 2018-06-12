@@ -28,7 +28,8 @@ Fields["table_po_datagrid"].highlight();
 Debug.ger(Fields["table_po_datagrid"]);
 
 //Add ref
-Fields["input_RefNotextBox"].
+Fields["input_RefNotextBox"].highlight();
+
 
 //Execute po
 
