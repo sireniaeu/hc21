@@ -29,9 +29,9 @@ Window.sendKeys("s");
 Window.sendKeys("{TAB}");
 Window.sendKeys("ss");
 Window.sendKeys("{TAB}");
-Window.sendKeys("s");
+Window.sendKeys("sss");
 Window.sendKeys("{TAB}");
-Window.sendKeys("s");
+Window.sendKeys("ssss");
 
 //Add ref
 //Fields["input_RefNotextBox"].highlight();
