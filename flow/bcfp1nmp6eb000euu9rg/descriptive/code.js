@@ -39,7 +39,8 @@ Fields["input_CommentstextBox"].highlight();
 Fields["input_CommentstextBox"].input(args.remarks);
 
 //Execute po
-btn
+Fields["btn_ok"].highlight();
+
 
 
 
