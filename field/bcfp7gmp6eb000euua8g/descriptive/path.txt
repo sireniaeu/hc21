@@ -1,1 +1,1 @@
-**/dataGridView
+**/(id)dataGridView
