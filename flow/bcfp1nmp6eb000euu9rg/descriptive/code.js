@@ -1,3 +1,4 @@
+//Click po menu
 Fields["bnt_purchase"].highlight();
 Fields["bnt_purchase"].click({});
 
