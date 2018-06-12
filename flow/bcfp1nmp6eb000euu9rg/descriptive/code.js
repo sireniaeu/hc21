@@ -27,8 +27,8 @@ Fields["table_po_datagrid"].click();
 Window.sendKeys("{TAB}");
 Window.sendKeys("One of these");
 Window.sendKeys("{ENTER}");
-Window.sendKeys("One of these");
-Window.sendKeys("{TAB}");
+Window.sendKeys("Two of these");
+Window.sendKeys("{ENTER}");
 Window.sendKeys("One of these");
 
 //Add ref
