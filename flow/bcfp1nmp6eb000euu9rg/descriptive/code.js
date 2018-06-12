@@ -33,7 +33,7 @@ Fields["input_RefNotextBox"].input(args.ref_no);
 
 //Add Add to another add
 Fields["input_checkBox_Add_Address"].highlight();
-Fields["input_checkBox_Add_Address"].input();
+Fields["input_checkBox_Add_Address"].input(args.);
 
 
 //Execute po
