@@ -41,9 +41,9 @@ Window.sendKeys("{ENTER}");
 
 Window.sendKeys("Some of those");
 Window.sendKeys("{TAB}");
-Window.sendKeys("1");
+Window.sendKeys("1337");
 Window.sendKeys("{TAB}");
-Window.sendKeys("100");
+Window.sendKeys("33");
 Window.sendKeys("{ENTER}");
 
 //Add ref
