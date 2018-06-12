@@ -36,7 +36,7 @@ Window.sendKeys("Two of these");
 Window.sendKeys("{TAB}");
 Window.sendKeys("2");
 Window.sendKeys("{TAB}");
-Window.sendKeys("100");
+Window.sendKeys("66");
 Window.sendKeys("{ENTER}");
 
 Window.sendKeys("Some of those");
