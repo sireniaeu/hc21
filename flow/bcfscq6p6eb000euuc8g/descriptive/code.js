@@ -1,5 +1,5 @@
 Debug.ger(Fields["list_select_status"].inspect());
-Fields["list_select_status"].select("Cancelled");
+Fields["list_select_status"].select("Canceled");
 
 Fields["btn_displayReport"].click();
 Wait.forMilliseconds(500);
