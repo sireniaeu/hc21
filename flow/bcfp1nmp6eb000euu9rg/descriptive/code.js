@@ -29,13 +29,13 @@ Window.sendKeys("{TAB}");
 
 for (var item in args.items) {
   Window.sendKeys("One of these");
-Window.sendKeys("{TAB}");
-Window.sendKeys("1");
-Window.sendKeys("{TAB}");
-Window.sendKeys("100");
-Window.sendKeys("{TAB 3}");
-Wait.forMilliseconds(1000);
-  
+  Window.sendKeys("{TAB}");
+  Window.sendKeys("1");
+  Window.sendKeys("{TAB}");
+  Window.sendKeys("100");
+  Window.sendKeys("{TAB 3}");
+  Wait.forMilliseconds(1000);
+
 }
 
 
@@ -79,5 +79,3 @@ Fields["bnt_cancel"].click();
 
 //Go to list of PO
 Window.sendKeys("^%o");
-
-
