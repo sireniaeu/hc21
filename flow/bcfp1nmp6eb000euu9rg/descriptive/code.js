@@ -43,7 +43,7 @@ Window.sendKeys("{TAB}");
 for (var item in args.items) {
   Window.sendKeys(args.items[item.name]);
   Window.sendKeys("{TAB}");
-  Window.sendKeys(args.items[item.name]);
+  Window.sendKeys(args.items[item.amount]);
   Window.sendKeys("{TAB}");
   Window.sendKeys(args.items[item.name]);
   Window.sendKeys("{TAB 3}");
