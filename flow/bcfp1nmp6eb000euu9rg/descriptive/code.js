@@ -2,7 +2,7 @@
 args = {};
 args.ref_no = Date.now();
 args.add_to_address = true;
-args.remarks = "Something here. "+Date.now();
+args.remarks = "Something here. " + Date.now();
 
 //Click po menu
 Fields["bnt_purchase"].highlight();
@@ -30,8 +30,8 @@ Fields["input_RefNotextBox"].input(args.ref_no);
 
 //Add Add to another add
 Fields["input_checkBox_Add_Address"].highlight();
-if (args.add_to_address){
-	Fields["input_checkBox_Add_Address"].click();
+if (args.add_to_address) {
+  Fields["input_checkBox_Add_Address"].click();
 }
 
 //Add remarks
@@ -41,7 +41,3 @@ Fields["input_CommentstextBox"].input(args.remarks);
 //Execute po
 Fields["btn_ok"].highlight();
 Fields["btn_ok"].click();
-
-
-
-
