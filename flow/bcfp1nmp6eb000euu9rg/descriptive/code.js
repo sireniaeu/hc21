@@ -70,5 +70,6 @@ Fields["btn_ok"].click();
 //No, don't print
 
 //Go to list of PO
+Window.sendKeys("+^o");
 
 
