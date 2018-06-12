@@ -5,4 +5,5 @@ Wait.forMilliseconds(500);
 Fields["btn_cancelRecord"].click();
 Wait.forMilliseconds(500);
 Window.sendKeys("j");
+Window.sendKeys("j");
 Fields["btn_displayReport"].click();
