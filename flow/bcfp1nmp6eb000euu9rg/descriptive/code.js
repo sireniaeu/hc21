@@ -47,6 +47,7 @@ Window.sendKeys("1337");
 Window.sendKeys("{TAB}");
 Window.sendKeys("33");
 Window.sendKeys("{ENTER}");
+Wait.forMilliseconds(1000);
 
 //Add ref
 //Fields["input_RefNotextBox"].highlight();
