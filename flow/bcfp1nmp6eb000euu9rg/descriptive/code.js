@@ -1,7 +1,9 @@
 //Input params
 args = {};
 args.ref_no = Date.now();
-args.
+args.add_to_address = true;
+
+
 
 
 //Click po menu
