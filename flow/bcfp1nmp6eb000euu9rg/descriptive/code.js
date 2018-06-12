@@ -1,1 +1,1 @@
-Fields["bnt_purchase"];
+Fields["bnt_purchase"].click({});
