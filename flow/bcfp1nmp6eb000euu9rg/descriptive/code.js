@@ -17,7 +17,7 @@ Window.sendKeys("+^o");
 //Debug.ger(Fields["table_datagrid"]);
 
 //Click create po
-Fields.btn_create_po.highlight();
+//Fields.btn_create_po.highlight();
 Fields.btn_create_po.click();
 
 //Add item lines. TODO:
