@@ -6,5 +6,5 @@ Fields["table_datagrid"].highlight();
 
 
 
-Wait.forField(Fields["table_datagrid"]);
+Wait.forField(Fields["btn_create_po"]);
 Fields.btn_create_po.click();
