@@ -1,5 +1,5 @@
 //Input params
-args = [new Object(];
+args = {};
 args.
 
 
