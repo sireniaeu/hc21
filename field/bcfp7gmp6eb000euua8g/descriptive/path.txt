@@ -1,1 +1,1 @@
-**/RightPanel/**/dataGridView
+**/dataGridView
