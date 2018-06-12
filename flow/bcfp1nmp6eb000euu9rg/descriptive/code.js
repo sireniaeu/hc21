@@ -35,10 +35,7 @@ for (var item in args.items) {
   Window.sendKeys("100");
   Window.sendKeys("{TAB 3}");
   Wait.forMilliseconds(1000);
-
 }
-
-
 
 Window.sendKeys("Two of these");
 Window.sendKeys("{TAB}");
