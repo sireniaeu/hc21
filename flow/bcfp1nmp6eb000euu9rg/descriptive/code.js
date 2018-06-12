@@ -3,7 +3,7 @@ args = {};
 args.ref_no = Date.now();
 args.add_to_address = true;
 args.remarks = "Something here. " + Date.now();
-args.items = {}
+args.items = ["One of these", "Two of these", "Some of those"];
 
 //Click po menu
 //Fields["bnt_purchase"].highlight();
