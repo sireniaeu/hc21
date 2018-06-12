@@ -1,4 +1,4 @@
-Fields["list_select_status"].
+Fields["list_select_status"].select("Cancel");
 
 Fields["btn_displayReport"].click();
 Wait.forMilliseconds(500);
