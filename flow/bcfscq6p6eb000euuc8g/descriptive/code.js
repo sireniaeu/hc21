@@ -1,3 +1,3 @@
 Fields["btn_displayReport"].click();
 Wait.forMilliseconds(500);
-btn
+Fields["btn_displayRecord"].cick()M
