@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="sirenia_api_autofield" id="omAwTd3G.V[13`.hv-_R" x="32" y="11"><field name="fieldName">bnt_purchase</field></block></xml>
