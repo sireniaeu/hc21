@@ -31,8 +31,7 @@ Window.sendKeys("{TAB}");
 for (var item in args.items) {
   Window.sendKeys(args.items[item.name]);
   Window.sendKeys("{TAB}");
-  Window.sendKeys("1");
-  Window.sendKeys("{TAB}");
+  Window.sendKeys(args.items[item.name]);  Window.sendKeys("{TAB}");
   Window.sendKeys("100");
   Window.sendKeys("{TAB 3}");
   Wait.forMilliseconds(1000);
