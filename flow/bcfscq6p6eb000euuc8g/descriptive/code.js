@@ -1,4 +1,4 @@
-list
+Fields["list_select_status"].
 
 Fields["btn_displayReport"].click();
 Wait.forMilliseconds(500);
