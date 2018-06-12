@@ -4,6 +4,8 @@ Fields["bnt_purchase"].click({});
 
 //Open po window
 Window.sendKeys("+^o");
+
+//Select Account
 Fields["table_datagrid"].highlight();
 Wait.forMilliseconds(1000);
 //Debug.ger(Fields["table_datagrid"]);
