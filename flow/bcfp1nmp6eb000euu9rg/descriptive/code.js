@@ -25,13 +25,7 @@ Fields["table_po_datagrid"].highlight();
 //Debug.ger(Fields["table_po_datagrid"]);
 Fields["table_po_datagrid"].click();
 Window.sendKeys("{TAB}");
-Window.sendKeys("s");
-Window.sendKeys("{TAB}");
-Window.sendKeys("ss");
-Window.sendKeys("{TAB}");
-Window.sendKeys("sss");
-Window.sendKeys("{TAB}");
-Window.sendKeys("ssss");
+Window.sendKeys("");
 
 //Add ref
 //Fields["input_RefNotextBox"].highlight();
