@@ -73,7 +73,7 @@ Fields["bnt_cancel"].click();
 
 //Go to list of PO
 Window.sendKeys("^%o");
-Wait.forMilliseconds(1000);
+Wait.forMilliseconds(500);
 Fields["list_select_status"].select("Canceled");
 Wait.forMilliseconds(1000);
 Fields["btn_displayReport"].click();
