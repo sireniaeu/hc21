@@ -24,8 +24,7 @@ Fields.btn_create_po.click();
 Fields["table_po_datagrid"].highlight();
 //Debug.ger(Fields["table_po_datagrid"]);
 Fields["table_po_datagrid"].click();
-Fields["table_po_datagrid"].highlight();
-
+Window.sendKeys();
 
 //Add ref
 //Fields["input_RefNotextBox"].highlight();
