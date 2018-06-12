@@ -5,8 +5,8 @@ args.add_to_address = true;
 args.remarks = "Something here. " + Date.now();
 
 //Click po menu
-Fields["bnt_purchase"].highlight();
-Fields["bnt_purchase"].click({});
+//Fields["bnt_purchase"].highlight();
+//Fields["bnt_purchase"].click({});
 
 //Open po window
 Window.sendKeys("+^o");
