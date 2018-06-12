@@ -28,17 +28,17 @@ Fields["table_po_datagrid"].click();
 Window.sendKeys("{TAB}");
 
 for (var item in args.items) {
-  
-  
-}
-
-Window.sendKeys("One of these");
+  Window.sendKeys("One of these");
 Window.sendKeys("{TAB}");
 Window.sendKeys("1");
 Window.sendKeys("{TAB}");
 Window.sendKeys("100");
 Window.sendKeys("{TAB 3}");
 Wait.forMilliseconds(1000);
+  
+}
+
+
 
 Window.sendKeys("Two of these");
 Window.sendKeys("{TAB}");
