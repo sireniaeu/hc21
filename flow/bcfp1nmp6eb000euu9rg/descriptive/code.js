@@ -32,7 +32,9 @@ Fields["input_RefNotextBox"].highlight();
 Fields["input_RefNotextBox"].input(args.ref_no);
 
 //Add Add to another add
-Fields["input_checkBox_Add_Address"]
+Fields["input_checkBox_Add_Address"].highlight();
+Fields["input_checkBox_Add_Address"].inout();
+
 
 //Execute po
 
