@@ -1,1 +1,1 @@
-**/Displaydocbutton
+**/(id)Displaydocbutton
