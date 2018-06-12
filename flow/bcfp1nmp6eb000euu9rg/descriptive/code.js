@@ -1,3 +1,3 @@
 Fields["bnt_purchase"].click({});
 Window.sendKeys("+^o");
-Fi
+Fields["table_datagrid"].
