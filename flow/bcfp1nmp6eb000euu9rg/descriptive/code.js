@@ -38,7 +38,7 @@ if (args.add_to_address){
 }
 
 //Add remarks
-Fields["input_CommentstextBox"].
+Fields["input_CommentstextBox"].highlight();
 
 //Execute po
 
