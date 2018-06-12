@@ -37,22 +37,6 @@ for (var item in args.items) {
   Wait.forMilliseconds(1000);
 }
 
-Window.sendKeys("Two of these");
-Window.sendKeys("{TAB}");
-Window.sendKeys("2");
-Window.sendKeys("{TAB}");
-Window.sendKeys("66");
-Window.sendKeys("{TAB 3}");
-Wait.forMilliseconds(1000);
-
-Window.sendKeys("Some of those");
-Window.sendKeys("{TAB}");
-Window.sendKeys("1337");
-Window.sendKeys("{TAB}");
-Window.sendKeys("33");
-Window.sendKeys("{ENTER}");
-Wait.forMilliseconds(1000);
-
 //Add ref
 //Fields["input_RefNotextBox"].highlight();
 Fields["input_RefNotextBox"].input(args.ref_no);
