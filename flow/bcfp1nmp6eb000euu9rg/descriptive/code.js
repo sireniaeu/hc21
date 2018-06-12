@@ -27,7 +27,7 @@ Fields["table_po_datagrid"].click();
 Window.sendKeys("{TAB}");
 Window.sendKeys("s");
 Window.sendKeys("{TAB}");
-Window.sendKeys("s");
+Window.sendKeys("ss");
 Window.sendKeys("{TAB}");
 Window.sendKeys("s");
 Window.sendKeys("{TAB}");
