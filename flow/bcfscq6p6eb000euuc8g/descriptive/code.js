@@ -1,2 +1,3 @@
 Fields["btn_displayReport"].click();
-Wait.forMilliseconds(1000);
+Wait.forMilliseconds(500);
+btn
