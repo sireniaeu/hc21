@@ -40,6 +40,7 @@ Window.sendKeys("{TAB}");
 Window.sendKeys("66");
 Window.sendKeys("{ENTER}");
 Window.sendKeys("{^TAB}");
+Window.sendKeys("{^TAB}");
 
 Window.sendKeys("Some of those");
 Window.sendKeys("{TAB}");
