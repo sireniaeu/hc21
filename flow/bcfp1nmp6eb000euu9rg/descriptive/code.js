@@ -1,3 +1,4 @@
+Fields["bnt_purchase"].highlight()
 Fields["bnt_purchase"].click({});
 Window.sendKeys("+^o");
 Fields["table_datagrid"].highlight();
