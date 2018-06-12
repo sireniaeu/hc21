@@ -1,4 +1,4 @@
-Debug.ger();
+Debug.ger(Fields["list_select_status"].inspect());
 Fields["list_select_status"].select("Cancel");
 
 Fields["btn_displayReport"].click();
