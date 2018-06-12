@@ -71,6 +71,6 @@ Fields["btn_ok"].click();
 Fields["bnt_cancel"].click();
 
 //Go to list of PO
-Window.sendKeys("+%o");
+Window.sendKeys("^%o");
 
 
