@@ -14,6 +14,9 @@ Wait.forMilliseconds(1000);
 Fields.btn_create_po.highlight();
 Fields.btn_create_po.click();
 
+//Add item lines
 Fields["table_po_datagrid"].highlight();
 Debug.ger(Fields["table_po_datagrid"]);
+
+//Execute po
 
