@@ -31,7 +31,8 @@ Debug.ger(Fields["table_po_datagrid"]);
 Fields["input_RefNotextBox"].highlight();
 Fields["input_RefNotextBox"].input(args.ref_no);
 
-//Add 
+//Add Add to another add
+Fields["input_checkBox_Add_Address"]
 
 //Execute po
 
