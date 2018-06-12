@@ -8,7 +8,7 @@ Wait.forMilliseconds(1000);
 
 
 Wait.forField(Fields["btn_create_po"], 10);
-Fields.btn_create_po.hig();
+Fields.btn_create_po.highlight();
 Fields.btn_create_po.click();
 
 Fields["table_po_datagrid"].highlight();
