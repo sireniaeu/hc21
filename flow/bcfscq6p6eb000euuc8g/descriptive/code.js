@@ -3,7 +3,7 @@ Wait.forMilliseconds(500);
 Fields["btn_displayRecord"].click();
 Wait.forMilliseconds(500);
 Fields["btn_cancelRecord"].click();
-Wait.forMilliseconds(500);
+Wait.forMilliseconds(1500);
 Window.sendKeys("{ENTER}");
 Wait.forMilliseconds(500);
 Window.sendKeys("{ENTER}");
