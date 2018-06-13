@@ -10,7 +10,7 @@ Sticky.open(
     items: [
       {
         type: 'HTML',
-        source: '<h2>Flow is running ...</h2>',
+        source: '<h3>Flow is running ...</h2>',
         height: 50
       }
     ]
