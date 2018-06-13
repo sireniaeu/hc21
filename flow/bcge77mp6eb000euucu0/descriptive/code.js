@@ -1,5 +1,5 @@
 Sticky.open(
-  'mySticky', 
+  'running', 
   { 
     embed: true,
     location: {
