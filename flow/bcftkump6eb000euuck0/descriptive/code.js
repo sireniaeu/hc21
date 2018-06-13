@@ -8,4 +8,4 @@ function doSomething() {
 }
 
 
-Fields["table_datagrid"].editCell((String(Math.sin(45 / 180 * Math.PI)) + String('')), '', '', {});
+Fields["table_datagrid"].editCell('', '', '', {});
