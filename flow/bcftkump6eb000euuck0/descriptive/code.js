@@ -13,5 +13,3 @@ function doSomething() {
 Fields["table_datagrid"].editCell('', '', '', {});
 
 args = 0;
-
-null.inspect({});
