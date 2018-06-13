@@ -1,3 +1,5 @@
+var args;
+
 /**
  * Describe this function...
  */
@@ -9,3 +11,5 @@ function doSomething() {
 
 
 Fields["table_datagrid"].editCell('', '', '', {});
+
+args = 0;
