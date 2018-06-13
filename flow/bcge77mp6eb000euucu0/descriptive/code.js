@@ -5,7 +5,7 @@ Sticky.open(
     location: {
       type: 'absolute',
       top: 100,
-      left: 100
+      left: 1000
     },
     items: [
       {
