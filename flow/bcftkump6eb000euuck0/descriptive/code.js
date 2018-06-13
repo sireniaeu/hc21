@@ -8,6 +8,6 @@ function doSomething() {
 }
 
 
-Fields["table_datagrid"].editCell('', '', '', {});
-
 Math.sin(45 / 180 * Math.PI);
+
+Fields["table_datagrid"].editCell('', '', '', {});
