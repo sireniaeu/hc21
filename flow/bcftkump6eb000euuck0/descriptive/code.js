@@ -8,4 +8,4 @@ function doSomething() {
 }
 
 
-doSomething();
+(doSomething());
