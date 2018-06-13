@@ -9,3 +9,5 @@ function doSomething() {
 
 
 Fields["table_datagrid"].editCell('Account A', 'Amount', '', {});
+
+Math.sin(45 / 180 * Math.PI);
