@@ -14,7 +14,7 @@ Sticky.open(
       },
       {
         type: 'HTML',
-        source: '<h2>Smaller header</h2>',
+        source: '<h2>Flow is running ...</h2>',
         height: 50
       }
     ]
