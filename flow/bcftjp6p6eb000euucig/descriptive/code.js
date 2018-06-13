@@ -11,7 +11,7 @@ for (var count = 0; count < 2; count++) {
   if(Fields["btn_Message_ok"].exists()){
     Notification.show('info', 'All POs have been cancelled', '', { severity: 'INFO', timeout: 5 });
     //Fields["btn_Message_ok"].highlight();
-    Fields["btn_Message_ok"].exists()
+    Fields["btn_Message_ok"].click()
     break;
   }
   Flow.run("Cancel Record", {});
