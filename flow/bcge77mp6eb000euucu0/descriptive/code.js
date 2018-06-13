@@ -3,6 +3,7 @@ Sticky.open(
   { 
     embed: true,
     location: {
+      type: 'absolute',
       top: 100,
       left: 100
     },
