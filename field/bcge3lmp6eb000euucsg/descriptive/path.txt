@@ -1,1 +1,1 @@
-**/Message/OK
+**/OK
