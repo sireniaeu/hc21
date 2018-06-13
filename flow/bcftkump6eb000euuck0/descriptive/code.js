@@ -8,4 +8,4 @@ function doSomething() {
 }
 
 
-Fields["table_datagrid"].editCell('', '', '', {});
+Fields["table_datagrid"].editCell('Account A', '', '', {});
