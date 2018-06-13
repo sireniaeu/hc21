@@ -1,4 +1,4 @@
-Debug.ger(Fields["btn_Message_ok"].inspect());
+//Debug.ger(Fields["btn_Message_ok"].inspect());
 Fields["btn_Message_ok"].highlight();
 
 /*for (var count = 0; count < 2; count++) {
