@@ -1,2 +1,1 @@
-
 Sticky.close('running');
