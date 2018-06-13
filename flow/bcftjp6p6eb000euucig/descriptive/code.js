@@ -8,5 +8,5 @@ for (var count = 0; count < 2; count++) {
     Fields["btn_Message_ok"].highlight();
     break;
   }
-  //Flow.run("Cancel Record", {});
+  Flow.run("Cancel Record", {});
 }
