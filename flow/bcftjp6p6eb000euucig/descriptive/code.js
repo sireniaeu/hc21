@@ -1,3 +1,4 @@
+Fields["btn_Message_ok"].exists();
 
 /*for (var count = 0; count < 2; count++) {
   Notification.show('info', 'Its complicated', 'Round '+count, { severity: 'INFO', timeout: 5 });
