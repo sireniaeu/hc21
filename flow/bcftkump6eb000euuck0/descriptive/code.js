@@ -6,3 +6,6 @@ function doSomething() {
     Flow.run("Create PO", {});
   }
 }
+
+
+null.editCell('', '', '', {});
