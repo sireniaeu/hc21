@@ -1,5 +1,3 @@
-var args;
-
 /**
  * Describe this function...
  */
@@ -11,5 +9,3 @@ function doSomething() {
 
 
 Fields["table_datagrid"].editCell('', '', '', {});
-
-args = (typeof args == 'number' ? args : 0) + 1;
