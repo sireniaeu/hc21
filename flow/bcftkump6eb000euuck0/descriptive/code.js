@@ -9,3 +9,5 @@ function doSomething() {
 
 
 null.editCell('', '', '', {});
+
+Fields["table_datagrid"];
