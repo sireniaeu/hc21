@@ -30,3 +30,5 @@ Wait.forMilliseconds(500);
 Fields["list_select_status"].select("Canceled");
 Wait.forSeconds(1);
 null.click({});
+
+Fields["btn_displayReport"];
