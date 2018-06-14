@@ -20,3 +20,6 @@ Fields["input_RefNotextBox"].input(args.ref_no);
 if (args['add_to_address']) {
   Fields["input_checkBox_Add_Address"].click({});
 }
+
+// Need support for input API method - and inputNative
+Fields["input_RefNotextBox"].input(args.ref_no);
