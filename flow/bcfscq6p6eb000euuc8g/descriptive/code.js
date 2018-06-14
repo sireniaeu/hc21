@@ -19,4 +19,4 @@ Window.sendKeys("{ENTER}", {focus:false});
 Wait.forMilliseconds(500);
 Window.sendKeys("{ENTER}", {focus:false});
 Fields["btn_displayReport_optic"].click();
-Notification.show('info', 'Dispaly Report Clicked', '', { severity: 'INFO', timeout: 5 });
+Notification.show('info', 'Dispaly Report Clicked - DONE', '', { severity: 'INFO', timeout: 5 });
