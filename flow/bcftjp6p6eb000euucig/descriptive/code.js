@@ -6,8 +6,6 @@ Wait.forMilliseconds(1000);
 Fields["btn_displayReport_optic"].click();
 Notification.show('info', 'Dispaly Report Clicked', '', { severity: 'INFO', timeout: 5 });
 Wait.forMilliseconds(1000);
-Wait.forMilliseconds(500);
-
 
 for (var count = 0; count < 1000; count++) {
   Notification.show('info', 'Canceling Records', 'Round '+count, { severity: 'INFO', timeout: 5 });
