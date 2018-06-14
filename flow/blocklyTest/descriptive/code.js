@@ -1,7 +1,9 @@
+var x;
+
 /**
  * Describe this function...
  */
-function sendKeys() {
+function sendKeys(x) {
 }
 
 
