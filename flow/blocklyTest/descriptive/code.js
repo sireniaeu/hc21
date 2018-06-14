@@ -12,8 +12,6 @@ for (var i = 0, item = null; i < args.length; ) {
   sendKeys('{TAB 3}');
 }
 
-args[''];
+args[i];
 
 args[0];
-
-i;
