@@ -4,6 +4,7 @@
 Fields["list_select_status"].select("Canceled");
 Wait.forMilliseconds(1000);
 Fields["btn_displayReport_optic"].click();
+Notification.show('info', 'All POs have been cancelled', '', { severity: 'INFO', timeout: 5 });
 Wait.forMilliseconds(500);
 
 for (var count = 0; count < 1000; count++) {
