@@ -2,8 +2,9 @@
 Fields["list_select_status"].select("Canceled");
 Wait.forMilliseconds(1000);
 //Fields["btn_displayReport"].click();
-Fields["btn_displayReport_optic"].highlight();
+//Fields["btn_displayReport_optic"].highlight();
 Fields["btn_displayReport_optic"].click();
+Notification.show('info', 'Dispaly Report Clicked', '', { severity: 'INFO', timeout: 5 });
 
 Wait.forMilliseconds(3000);
 Fields["btn_displayRecord"].click();
