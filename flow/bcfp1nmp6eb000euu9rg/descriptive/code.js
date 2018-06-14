@@ -76,4 +76,4 @@ Window.sendKeys("^%o");
 Wait.forMilliseconds(500);
 Fields["list_select_status"].select("Canceled");
 Wait.forMilliseconds(1000);
-Fields["btn_displayReport"].click();
+Fields["btn_displayReport_optic"].click();
