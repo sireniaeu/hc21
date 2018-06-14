@@ -15,3 +15,4 @@ for (var i = 0, item = null; i < args.length; i = i + 1) {
   sendKeys('{TAB 3}');
   Wait.forSeconds(1);
 }
+;
