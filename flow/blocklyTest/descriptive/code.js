@@ -4,7 +4,7 @@ var args = {ref_no: Date.now(), add_to_address: true, remarks: (String('Somethin
 sendKeys('+^o');
 Fields["btn_create_po"].click({});
 sendKeys('{TAB}');
-for (i = 0, unnamed = null; i < args.length; ) {
+for (i = 0, item = null; i < args.length; ) {
   sendKeys('{TAB}');
   sendKeys('{TAB}');
   sendKeys('{TAB}');
