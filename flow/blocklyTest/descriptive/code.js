@@ -24,3 +24,7 @@ if (args['add_to_address']) {
 Fields["input_CommentstextBox"].input(args.remarks);
 Fields["btn_ok"].click({});
 Fields["bnt_cancel"].click({});
+sendKeys('^%o');
+Wait.forMilliseconds(500);
+// Need support for input API method - and inputNative
+Fields["input_CommentstextBox"].input(args.remarks);
