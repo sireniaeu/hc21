@@ -1,1 +1,1 @@
-var args = {ref_no: 0, add_to_address: null, remarks: null, items: null};
+var args = {ref_no: Date.now(), add_to_address: null, remarks: null, items: null};
