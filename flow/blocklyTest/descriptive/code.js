@@ -10,6 +10,6 @@ for (var i = 0, item = null; i < args.length; i = i + 1) {
   sendKeys(item['name']);
   sendKeys('{TAB}');
   sendKeys(item['amount']);
-  sendKeys('{TAB 3}');
   sendKeys('{TAB}');
+  sendKeys('{TAB 3}');
 }
