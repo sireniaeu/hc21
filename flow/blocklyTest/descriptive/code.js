@@ -27,4 +27,4 @@ Fields["bnt_cancel"].click({});
 sendKeys('^%o');
 Wait.forMilliseconds(500);
 // Need support for input API method - and inputNative
-Fields["list_select_status"].input(args.remarks);
+Fields["list_select_status"].select("Canceled");
