@@ -1,1 +1,1 @@
-bt
+Fields["btn_Message_ok"].exist();
