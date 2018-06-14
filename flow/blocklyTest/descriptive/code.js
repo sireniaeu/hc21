@@ -18,6 +18,5 @@ for (var i = 0, item = null; i < args.length; i = i + 1) {
 // Need support for input API method - and inputNative
 Fields["input_RefNotextBox"].input(args.ref_no);
 if (args['add_to_address']) {
-  // Need support for input API method - and inputNative
-  Fields["input_RefNotextBox"].input(args.ref_no);
+  Fields["btn_create_po"].click({});
 }
