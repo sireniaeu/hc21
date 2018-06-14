@@ -1,1 +1,1 @@
-var args = null;
+var args = {};
