@@ -1,2 +1,2 @@
 
-Notification.show('info', Fields["btn_Message_ok"].exist(), 'Round '+count, { severity: 'INFO', timeout: 120 });
+Notification.show('info', Fields["btn_Message_ok"].exist(), '', { severity: 'INFO', timeout: 120 });
