@@ -4,6 +4,7 @@ Wait.forMilliseconds(1000);
 //Fields["btn_displayReport"].click();
 Fields["btn_displayReport_optic"].highlight();
 Fields["btn_displayReport_optic"].click();
+
 Wait.forMilliseconds(3000);
 Fields["btn_displayRecord"].click();
 Wait.forMilliseconds(500);
