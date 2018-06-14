@@ -18,4 +18,4 @@ Wait.forMilliseconds(1500);
 Window.sendKeys("{ENTER}", {focus:false});
 Wait.forMilliseconds(500);
 Window.sendKeys("{ENTER}", {focus:false});
-Fields["btn_displayReport"].click();
+Fields["btn_displayReport_optic"].click();
