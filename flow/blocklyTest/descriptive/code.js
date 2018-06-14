@@ -7,7 +7,7 @@ sendKeys('{TAB}');
 for (var i = 0, item = null; i < args.length; ) {
   item = args.items[i];
   sendKeys('{TAB}');
-  sendKeys('{TAB}');
+  sendKeys(null);
   sendKeys('{TAB}');
   sendKeys('{TAB 3}');
 }
