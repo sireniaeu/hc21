@@ -1,3 +1,4 @@
+Notification.show('info', 'Dispaly Report Clicked', '', { severity: 'INFO', timeout: 5 });
 //Debug.ger(Fields["list_select_status"].inspect());
 Fields["list_select_status"].select("Canceled");
 Wait.forMilliseconds(1000);
