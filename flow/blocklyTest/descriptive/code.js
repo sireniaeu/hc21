@@ -6,3 +6,5 @@ Fields["btn_create_po"].click({});
 sendKeys('{TAB}');
 for (i = 0; i < args.length; ) {
 }
+
+sendKeys('{TAB}');
