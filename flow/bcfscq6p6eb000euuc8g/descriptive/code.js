@@ -5,12 +5,12 @@ Wait.forMilliseconds(1000);
 //Fields["btn_displayReport"].click();
 //Fields["btn_displayReport_optic"].highlight();
 Fields["btn_displayReport_optic"].click();
-Notification.show('info', 'Dispaly Report Clicked', '', { severity: 'INFO', timeout: 5 });
+Notification.show('info', 'Display Report Clicked', '', { severity: 'INFO', timeout: 5 });
 
 Wait.forMilliseconds(3000);
 Fields["btn_displayRecord"].click();
 
-Notification.show('info', 'Dispaly Record Clicked', '', { severity: 'INFO', timeout: 5 });
+Notification.show('info', 'Display Record Clicked', '', { severity: 'INFO', timeout: 5 });
 
 
 Wait.forMilliseconds(500);
