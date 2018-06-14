@@ -1,4 +1,4 @@
-Notification.show('info', 'Su', '', { severity: 'INFO', timeout: 5 });
+Notification.show('info', 'Subflow', '', { severity: 'INFO', timeout: 5 });
 //Debug.ger(Fields["list_select_status"].inspect());
 Fields["list_select_status"].select("Canceled");
 Wait.forMilliseconds(1000);
