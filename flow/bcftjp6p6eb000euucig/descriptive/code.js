@@ -1,4 +1,4 @@
-Debug.ger(Fields["btn_Message_ok"].inspect());
+//Debug.ger(Fields["btn_Message_ok"].inspect());
 //Fields["btn_Message_ok"].highlight();
 
 Fields["list_select_status"].select("Canceled");
