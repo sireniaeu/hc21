@@ -8,7 +8,7 @@ sendKeys('{TAB}');
 for (var i = 0, item = null; i < args.length; i = i + 1) {
   item = args.items[i];
   sendKeys('{TAB}');
-  sendKeys(object['']);
+  sendKeys(object['name']);
   sendKeys('{TAB}');
   sendKeys('{TAB 3}');
 }
