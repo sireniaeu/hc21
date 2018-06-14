@@ -10,12 +10,12 @@ Wait.forMilliseconds(1000);
 
 for (var count = 0; count < 1000; count++) {
   Notification.show('info', 'Canceling Records', 'Round '+count, { severity: 'INFO', timeout: 5 });
-  if(Fields["btn_Message_ok"].exists()){
-    Notification.show('info', 'All POs have been cancelled', '', { severity: 'INFO', timeout: 5 });
-    //Fields["btn_Message_ok"].highlight();
-    Fields["btn_Message_ok"].click();
+  //if(Fields["btn_Message_ok"].exists()){
+  //  Notification.show('info', 'All POs have been cancelled', '', { severity: 'INFO', timeout: 5 });
+  //  //Fields["btn_Message_ok"].highlight();
+  //  Fields["btn_Message_ok"].click();
     
-    break;
-  }
+  //  break;
+  //}
   Flow.run("Cancel Record", {});
 }
