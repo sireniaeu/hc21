@@ -1,7 +1,7 @@
 /**
  * Describe this function...
  */
-function do_something() {
+function sendKeys() {
 }
 
 
