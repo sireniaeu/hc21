@@ -1,1 +1,1 @@
-Notification.show('info', Fields["btn_Message_ok"].exist(), '', { severity: 'WARN', timeout: 10 });
+Notification.show('info', Fields["btn_Message_ok"].exists(), '', { severity: 'WARN', timeout: 10 });
