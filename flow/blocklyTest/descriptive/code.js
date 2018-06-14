@@ -26,5 +26,5 @@ Fields["btn_ok"].click({});
 Fields["bnt_cancel"].click({});
 sendKeys('^%o');
 Wait.forMilliseconds(500);
-// Need support for input API method - and inputNative
+// Need support for select API method
 Fields["list_select_status"].select("Canceled");
