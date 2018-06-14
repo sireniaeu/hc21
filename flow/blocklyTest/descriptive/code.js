@@ -12,3 +12,5 @@ for (var i = 0, item = null; i < args.length; i = null) {
   sendKeys('{TAB}');
   sendKeys('{TAB 3}');
 }
+
+1 + 1;
