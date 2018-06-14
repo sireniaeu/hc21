@@ -23,5 +23,4 @@ if (args['add_to_address']) {
 // Need support for input API method - and inputNative
 Fields["input_CommentstextBox"].input(args.remarks);
 Fields["btn_ok"].click({});
-
-Fields["btn_ok"].click({});
+null.click({});
