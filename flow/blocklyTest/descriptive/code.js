@@ -11,4 +11,4 @@ for (i = 0; i < args.length; ) {
   sendKeys('{TAB 3}');
 }
 
-item = args[(i - 1)];
+var item = args[(i - 1)];
