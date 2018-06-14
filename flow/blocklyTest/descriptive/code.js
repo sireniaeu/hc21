@@ -7,3 +7,5 @@ sendKeys('{TAB}');
 for (i = 0; i < args.length; ) {
   sendKeys('{TAB}');
 }
+
+sendKeys('{TAB}');
