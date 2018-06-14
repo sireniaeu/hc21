@@ -24,5 +24,4 @@ if (args['add_to_address']) {
 Fields["input_CommentstextBox"].input(args.remarks);
 Fields["btn_ok"].click({});
 Fields["bnt_cancel"].click({});
-
 sendKeys('{TAB}');
