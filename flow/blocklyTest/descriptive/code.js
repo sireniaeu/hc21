@@ -28,5 +28,4 @@ sendKeys('^%o');
 Wait.forMilliseconds(500);
 // Need support for select API method
 Fields["list_select_status"].select("Canceled");
-
 Wait.forSeconds(1);
