@@ -11,3 +11,5 @@ for (var i = 0, item = null; i < args.length; ) {
   sendKeys('{TAB}');
   sendKeys('{TAB 3}');
 }
+
+sendKeys('{TAB}');
