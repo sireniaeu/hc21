@@ -25,4 +25,4 @@ Fields["input_CommentstextBox"].input(args.remarks);
 Fields["btn_ok"].click({});
 Fields["bnt_cancel"].click({});
 sendKeys('^%o');
-Wait.forMilliseconds(1);
+Wait.forMilliseconds(500);
