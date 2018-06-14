@@ -17,3 +17,5 @@ for (var i = 0, item = null; i < args.length; i = i + 1) {
 }
 // Need support for input API method - and inputNative
 Fields["input_RefNotextBox"].input(args.ref_no);
+if (false) {
+}
