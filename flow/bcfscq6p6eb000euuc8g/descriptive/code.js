@@ -3,7 +3,7 @@ Fields["list_select_status"].select("Canceled");
 Wait.forMilliseconds(1000);
 //Fields["btn_displayReport"].click();
 Fields["btn_displayReport_optic"].click();
-Wait.forMilliseconds(500);
+Wait.forMilliseconds(1500);
 Fields["btn_displayRecord"].click();
 Wait.forMilliseconds(500);
 Fields["btn_cancelRecord"].click();
