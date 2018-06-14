@@ -8,6 +8,10 @@ Notification.show('info', 'Dispaly Report Clicked', '', { severity: 'INFO', time
 
 Wait.forMilliseconds(3000);
 Fields["btn_displayRecord"].click();
+
+Notification.show('info', 'Dispaly Report Clicked', '', { severity: 'INFO', timeout: 5 });
+
+
 Wait.forMilliseconds(500);
 Fields["btn_cancelRecord"].click();
 Wait.forMilliseconds(1500);
