@@ -1,1 +1,0 @@
-Invalid hotkey. Mindst en modifier tast og en normal tast er krævet.
