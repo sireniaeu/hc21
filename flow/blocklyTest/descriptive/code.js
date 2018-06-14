@@ -19,3 +19,5 @@ for (var i = 0, item = null; i < args.length; i = i + 1) {
 Fields["input_RefNotextBox"].input(args.ref_no);
 if (false) {
 }
+
+object[''];
