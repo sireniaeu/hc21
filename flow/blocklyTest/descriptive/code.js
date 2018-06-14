@@ -8,9 +8,9 @@ sendKeys('{TAB}');
 for (var i = 0, item = null; i < args.length; i = i + 1) {
   item = args.items[i];
   sendKeys('{TAB}');
-  sendKeys(item['name']);
-  sendKeys('{TAB}');
-  sendKeys(item['amount']);
-  sendKeys('{TAB 3}');
-  sendKeys(item['amount']);
 }
+
+sendKeys(item['name']);
+sendKeys('{TAB}');
+sendKeys(item['amount']);
+sendKeys('{TAB 3}');
