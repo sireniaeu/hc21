@@ -5,9 +5,10 @@ sendKeys('+^o');
 Fields["btn_create_po"].click({});
 sendKeys('{TAB}');
 for (i = 0; i < args.length; ) {
-  item = args[(i - 1)];
-  sendKeys('{TAB}');
-  sendKeys('{TAB}');
-  sendKeys('{TAB}');
-  sendKeys('{TAB 3}');
 }
+
+item = args[(i - 1)];
+sendKeys('{TAB}');
+sendKeys('{TAB}');
+sendKeys('{TAB}');
+sendKeys('{TAB 3}');
