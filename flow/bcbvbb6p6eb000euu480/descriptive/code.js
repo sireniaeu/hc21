@@ -12,7 +12,7 @@ Window.maximize();
 Window.focus();
 
 //If logged in
-if (isLoggedIn()) {
+if (ensureAutomaticLoggedIn()) {
   //Ensure Patient Finder is open
   ensurePatientFinderOpen();
   //Lookup Patient from querystring 
