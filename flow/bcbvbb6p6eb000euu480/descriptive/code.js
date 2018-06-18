@@ -20,6 +20,8 @@ if (isLoggedIn()) {
 // === Functions ===
 // =================
 
+
+
 //Function
 function isLoggedIn() {
   if (Fields["input_username"].exists()) {
