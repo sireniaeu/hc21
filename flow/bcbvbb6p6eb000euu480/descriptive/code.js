@@ -3,8 +3,8 @@
 // =================
 
 //Args
-var user= "admin";
-
+var user = "admin";
+var pass = "pass";
 
 
 //Bring to front
