@@ -21,7 +21,6 @@ if (isLoggedIn()) {
 // =================
 
 //Function
-//Function
 function isLoggedIn() {
   if (Fields["input_username"].exists()) {
     try {
