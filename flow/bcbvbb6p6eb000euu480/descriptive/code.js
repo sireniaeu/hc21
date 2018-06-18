@@ -67,6 +67,5 @@ function ensurePatientFinderOpen() {
 
 //Function
 function lookupPatient(arg) {
-  //Fields["input_ssn_search"].input(Date.now());
   Fields["input_ssn_search"].inputNative(arg);
 }
