@@ -34,7 +34,6 @@ function ensureAutomaticLoggedIn() {
     Fields["btn_login"].click();
   }
   //We are not at login prompt
-  return true;
 }
 
 //Function
