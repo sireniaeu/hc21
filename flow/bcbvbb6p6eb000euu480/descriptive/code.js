@@ -2,6 +2,11 @@
 // === Main flow ===
 // =================
 
+//Args
+var user= "admin";
+
+
+
 //Bring to front
 Window.maximize();
 Window.focus();
