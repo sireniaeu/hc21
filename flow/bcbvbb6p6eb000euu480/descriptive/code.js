@@ -32,7 +32,6 @@ function ensureAutomaticLoggedIn() {
     Fields["input_username"].input(user);
 	Fields["input_password"].input(pass);
     Fields["btn_login"].click();
-
   }
   //We are not at login prompt
   return true;
