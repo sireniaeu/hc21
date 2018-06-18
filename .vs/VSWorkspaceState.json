@@ -1,18 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\field\\bcb54055mf6g00ffd0l0",
-    "\\field\\bcb54055mf6g00ffd0l0\\descriptive",
-    "\\field\\bcfsceup6eb000euuc7g",
-    "\\field\\bcfsceup6eb000euuc7g\\descriptive",
-    "\\field\\bcftdsep6eb000euucgg",
-    "\\field\\bcftdsep6eb000euucgg\\descriptive",
-    "\\field\\bcge3lmp6eb000euucsg",
-    "\\field\\bcge3lmp6eb000euucsg\\descriptive",
-    "\\flow",
-    "\\flow\\Cancel-all",
-    "\\flow\\Cancel-all\\descriptive"
+    "\\flow"
   ],
-  "SelectedNode": "\\flow\\Cancel-all\\descriptive\\code.js",
+  "SelectedNode": "\\flow",
   "PreviewInSolutionExplorer": false
 }
