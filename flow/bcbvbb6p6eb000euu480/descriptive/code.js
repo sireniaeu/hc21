@@ -25,7 +25,7 @@ function ensureAutomaticLoggedIn() {
   if (Fields["input_username"].exists()) {
     //We are at login prompt
     Fields["input_username"].input(pass);
-in    
+Fields["input_password"].
 
   }
   //We are not at login prompt
