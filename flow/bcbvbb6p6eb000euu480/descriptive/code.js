@@ -3,6 +3,7 @@
 // =================
 
 //Bring to front
+Window.maximize();
 Window.focus();
 
 //If logged in
