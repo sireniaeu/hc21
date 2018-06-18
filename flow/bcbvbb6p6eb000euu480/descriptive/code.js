@@ -38,7 +38,7 @@ function ensureAutomaticLoggedIn() {
 }
 
 //Function
-function isLoggedIn() {
+function isLoggedInOrUserDialog() {
   if (Fields["input_username"].exists()) {
     try {
       //We are at login prompt
