@@ -21,7 +21,23 @@ if (isLoggedIn()) {
 // =================
 
 //Function
-
+//Function
+function isLoggedIn() {
+  if (Fields["input_username"].exists()) {
+    try {
+      //We are at login prompt
+      Dialog.info('Login', 'You need to be logged in. Log in and run again.', {
+        'timeout': 10
+      });
+      return false;
+    } catch (e) {
+      //Timeout on dialog
+      return false;
+    }
+  }
+  //We are not at login prompt
+  return true;
+}
 
 //Function
 function isLoggedIn() {
