@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    "\\flow"
+    "",
+    "\\locale",
+    "\\manufacturer",
+    "\\subject",
+    "\\user"
   ],
   "PreviewInSolutionExplorer": false
 }
