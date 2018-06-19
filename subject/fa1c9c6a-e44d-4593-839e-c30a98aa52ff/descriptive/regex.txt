@@ -1,1 +1,0 @@
-.*"Indtidspunkt":"(\d\d?-\d\d?-\d{4})".*
