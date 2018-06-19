@@ -1,1 +1,0 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"><block type="sirenia_api_field_click" id="M(%zH-U6z6}G^_~!#u!J" x="30" y="29"><value name="field"><block type="sirenia_api_autofield" id=";Z[|J1|zlVym%Xk*;e(F"><field name="fieldName">optical1</field></block></value></block></xml>
