@@ -1,1 +1,0 @@
-Dialog.info('header', JSON.stringify(Fields["tbl_Programmer"].inspect()), { 'timeout': 10 });

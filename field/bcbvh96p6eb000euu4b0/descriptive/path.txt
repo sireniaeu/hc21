@@ -1,1 +1,0 @@
-#pt_table_filter > label > input[type="search"]
