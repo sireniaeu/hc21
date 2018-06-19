@@ -1,3 +1,3 @@
 //Noop
-Dialog.info('header', 'text', { 'timeout': 10 });
+Dialog.info('Info 4 U', 'text', { 'timeout': 10 });
 
