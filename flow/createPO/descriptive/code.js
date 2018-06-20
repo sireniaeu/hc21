@@ -41,5 +41,5 @@ Window.sendKeys(args.glcode);
 
 Fields["tableItem_OrderLine"].click();
 Window.sendKeys("{DEL 20}");
-Window.sendKeys(args.glcode);
+Window.sendKeys(args.orderline);
 
