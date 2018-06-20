@@ -34,5 +34,6 @@ Window.sendKeys(args.price);
 Wait.forMilliseconds(500);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.quantity);
+Wait.forMilliseconds(500);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.glcode);
