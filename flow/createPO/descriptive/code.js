@@ -7,7 +7,7 @@ args.scode = "AAS1878";
 //Fields["treeItem_PODE"].doubleClick();
 //Fields["btn_PO_Edit"].click();
 
-Fields["input_scode"].click();
+//Fields["input_scode"].click();
 Window.sendKeys(args.scode);
 
 Fields["btn_PO_Add"].click();
