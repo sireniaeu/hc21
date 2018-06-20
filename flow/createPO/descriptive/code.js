@@ -21,4 +21,4 @@ args.cost = "120";
 Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
 
-Windows.sendKeys();
+Windows.sendKeys(args.);
