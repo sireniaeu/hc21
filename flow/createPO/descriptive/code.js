@@ -4,6 +4,7 @@ args.poref = "AW";
 args.warehouse = "DEV";
 args.product = "CONSTRUCT";
 args.taxcode = "STD20";
+args.scode = "AAS1878";
 
 
 
