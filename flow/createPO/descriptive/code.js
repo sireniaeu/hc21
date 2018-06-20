@@ -21,7 +21,7 @@ Fields["input_scode"].click();
 Window.sendKeys(args.scode);
 Wait.forMilliseconds(2000);
 
-Fields["input_scode"].click();
+Fields["input_po_ref"].click();
 Window.sendKeys(args.scode);
 Wait.forMilliseconds(2000);
 
