@@ -10,9 +10,6 @@ args.glcode = "21.1018.110.32000";
 args.cost = "120";
 
 
-
-
-
 //Fields["treeSearch"].click();
 //Window.sendKeys("Purchase Ordering Document Entry");
 //Wait.forMilliseconds(1000);
