@@ -1,5 +1,5 @@
 var args = {};
-args.scode = "aas"
+args.scode = "aas1878"
 
 //Fields["treeSearch"].click();
 //Window.sendKeys("Purchase Ordering Document Entry");
