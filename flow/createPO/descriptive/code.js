@@ -22,4 +22,4 @@ Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
 
 Windows.sendKeys(args.warehouse);
-Windows.sendKeys("{}");
+Windows.sendKeys("{TAB}");
