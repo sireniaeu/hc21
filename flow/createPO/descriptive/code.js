@@ -21,7 +21,7 @@ args.cost = "120";
 Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
 
-Windows.sendKeys(args.warehouse);
+Window.sendKeys(args.warehouse);
 Windows.sendKeys("{TAB}");
 Windows.sendKeys(args.product);
 Windows.sendKeys("{TAB}");
