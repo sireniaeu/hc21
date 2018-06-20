@@ -43,7 +43,7 @@ Fields["tableItem_OrderLine"].click();
 Wait.forMilliseconds(1000);
 Fields["tableItem_OrderLine_form"].click();
 Window.sendKeys("{BACKSPACE 40}", {focus:false});
-Wait.forMilliseconds(1000);
+Wait.forMilliseconds(500);
 Window.sendKeys(args.orderline, {focus:false});
 
 Fields["btn_PO_OK"].click();
