@@ -22,13 +22,13 @@ Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
 
 Window.sendKeys(args.warehouse);
-Wait.forMilliseconds(2000);
+Wait.forMilliseconds(1000);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.product);
-Wait.forMilliseconds(2000);
+Wait.forMilliseconds(1000);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.taxcode);
-Wait.forMilliseconds(500);
+Wait.forMilliseconds(100);
 Window.sendKeys("{TAB 2}");
 Window.sendKeys(args.price);
 Wait.forMilliseconds(500);
