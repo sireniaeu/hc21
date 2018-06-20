@@ -1,6 +1,6 @@
 var args = {};
 args.scode = "AAS1878";
-args.poref = "";
+args.poref = "AW";
 
 //Fields["treeSearch"].click();
 //Window.sendKeys("Purchase Ordering Document Entry");
