@@ -32,6 +32,3 @@ Windows.sendKeys("{TAB}");
 Windows.sendKeys(args.quantity);
 Windows.sendKeys("{TAB}");
 Windows.sendKeys(args.glcode);
-Windows.sendKeys("{TAB}");
-Windows.sendKeys(args.quantity);
-Windows.sendKeys("{TAB}");
