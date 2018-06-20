@@ -1,1 +1,1 @@
-Fields["mainTreeView"].
+Fields["mainTreeView"].highlight();
