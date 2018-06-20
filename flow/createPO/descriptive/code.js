@@ -22,6 +22,7 @@ Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
 
 Window.sendKeys(args.warehouse);
+Wait.forMilliseconds(500);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.product);
 Window.sendKeys("{TAB}");
