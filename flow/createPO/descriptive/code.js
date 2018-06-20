@@ -5,6 +5,8 @@ args.warehouse = "DEV";
 args.product = "CONSTRUCT";
 args.taxcode = "STD20";
 args.price = "100";
+args.scode = "AAS1878";
+
 
 
 
