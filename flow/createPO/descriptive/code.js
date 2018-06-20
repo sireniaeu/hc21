@@ -6,6 +6,7 @@ args.product = "CONSTRUCT";
 args.taxcode = "STD20";
 args.price = "100";
 args.quantity = "1";
+args.scode = "AAS1878";
 
 
 
