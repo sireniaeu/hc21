@@ -1,2 +1,2 @@
 Fields["mainTreeView"].highlight();
-Debug.ger(main)
+Debug.ger(Fields["mainTreeView"])
