@@ -53,5 +53,5 @@ Wait.forMilliseconds(500);
 Window.sendKeys(args.orderline, {focus:false});
 Fields["btn_PO_OK"].click();
 Fields["btn_PO_Generate"].click();
-
+Wait.forMilliseconds(500);
 
