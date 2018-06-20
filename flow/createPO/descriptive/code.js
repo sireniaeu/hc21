@@ -3,7 +3,7 @@ args.scode = "AAS1878";
 args.poref = "AW";
 args.warehouse = "DEV";
 args.product = "CONSTRUCT";
-args.taxcode = "SDT";
+args.taxcode = "STD20";
 
 
 
