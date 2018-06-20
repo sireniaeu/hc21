@@ -19,7 +19,7 @@ args.orderline = "PO1";
 
 Fields["input_scode"].click();
 Window.sendKeys(args.scode);
-Wait.forMilliseconds(500);
+Wait.forMilliseconds(2000);
 Fields["btn_PO_Add"].click();
 Wait.forMilliseconds(1000);
 Window.sendKeys(args.warehouse);
