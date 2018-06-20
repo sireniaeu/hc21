@@ -1,7 +1,7 @@
 var args = {};
 args.scode = "AAS1878";
 args.poref = "AW";
-args.scode = "AAS1878";
+args.warehouse = "AAS1878";
 
 
 //Fields["treeSearch"].click();
