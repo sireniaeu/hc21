@@ -1,3 +1,3 @@
 Fields["mainTreeView"].highlight();
 //Debug.ger(Fields["mainTreeView"].inspect());
-Fields["treeSearch"].highlight
+Fields["treeSearch"].highlight();
