@@ -48,7 +48,7 @@ Window.sendKeys("{BACKSPACE 40}", {focus:false});
 Wait.forMilliseconds(1000);
 Window.sendKeys(args.orderline, {focus:false});
 
-Fields["btn_PO_OK"].
+Fields["btn_PO_OK"].click()
 
 
 
