@@ -1,4 +1,3 @@
-Fields["mainTreeView"].highlight();
 Fields["treeSearch"].click();
 Window.sendKeys("Purchase Ordering Document Entry");
 Wait.forMilliseconds(1000);
