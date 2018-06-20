@@ -2,7 +2,7 @@ var args = {};
 args.scode = "AAS1878";
 args.poref = "AW";
 args.warehouse = "DEV";
-args.scode = "AAS1878";
+args. = "AAS1878";
 
 
 
