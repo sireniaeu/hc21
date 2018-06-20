@@ -31,6 +31,7 @@ Window.sendKeys(args.taxcode);
 Wait.forMilliseconds(500);
 Window.sendKeys("{TAB 2}");
 Window.sendKeys(args.price);
+Wait.forMilliseconds(500);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.quantity);
 Window.sendKeys("{TAB}");
