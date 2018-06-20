@@ -1,1 +1,1 @@
-**/PanelControl1/(class)WindowsForms10.EDIT.app.0.141b42a_r9_ad1
+**/(class)WindowsForms10.EDIT.app.0.141b42a_r9_ad1
