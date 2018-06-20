@@ -21,7 +21,7 @@ args.orderline = "PO1";
 //Window.sendKeys(args.scode);
 Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
-
+Wait.forMilliseconds(1000);
 Window.sendKeys(args.warehouse);
 Wait.forMilliseconds(1000);
 Window.sendKeys("{TAB}");
