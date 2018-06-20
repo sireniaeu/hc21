@@ -26,7 +26,7 @@ Windows.sendKeys("{TAB}");
 Windows.sendKeys(args.product);
 Windows.sendKeys("{TAB}");
 Windows.sendKeys(args.taxcode);
-Windows.sendKeys("{TAB}");
+Windows.sendKeys("{TAB 2}");
 Windows.sendKeys(args.warehouse);
 Windows.sendKeys("{TAB}");
 Windows.sendKeys(args.warehouse);
