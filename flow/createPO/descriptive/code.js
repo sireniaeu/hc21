@@ -1,5 +1,5 @@
 var args = {};
-args.
+args.scode = ""
 
 //Fields["treeSearch"].click();
 //Window.sendKeys("Purchase Ordering Document Entry");
