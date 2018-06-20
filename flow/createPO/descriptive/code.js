@@ -11,7 +11,7 @@ args.cost = "120";
 args.orderline = "PO1";
 
 
-//Fields["treeSearch"].click();
+Fields["treeSearch"].click();
 //Window.sendKeys("Purchase Ordering Document Entry");
 //Wait.forMilliseconds(1000);
 //Fields["treeItem_PODE"].doubleClick();
