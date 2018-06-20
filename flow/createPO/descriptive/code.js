@@ -39,5 +39,6 @@ Wait.forMilliseconds(1000);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.glcode);
 
-Fields["tableItem_OrderLine"].click()
+Fields["tableItem_OrderLine"].click();
+
 
