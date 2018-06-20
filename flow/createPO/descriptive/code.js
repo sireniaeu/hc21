@@ -40,7 +40,7 @@ Window.sendKeys("{TAB}");
 Window.sendKeys(args.glcode);
 
 Fields["tableItem_OrderLine"].click();
-Wait.forMilliseconds(2000);
+Wait.forMilliseconds(1000);
 Fields["tableItem_OrderLine_form"].click();
 Window.sendKeys("{BACKSPACE 40}", {focus:false});
 Wait.forMilliseconds(1000);
