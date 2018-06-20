@@ -55,4 +55,4 @@ Fields["btn_PO_OK"].click();
 Fields["btn_PO_Generate"].click();
 Wait.forMilliseconds(500);
 
-btn
+Fields["btn_PO_Close"]
