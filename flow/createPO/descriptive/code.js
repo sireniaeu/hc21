@@ -9,5 +9,5 @@ args.scode = "AAS1878";
 
 //Fields["input_scode"].click();
 //Window.sendKeys(args.scode);
-Wait.forMilliseconds(1000);
+Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
