@@ -41,7 +41,7 @@ Window.sendKeys(args.glcode);
 
 Fields["tableItem_OrderLine"].click();
 Wait.forMilliseconds(1000);
-Fields["tableItem_OrderLine_form"]
+Fields["tableItem_OrderLine_form"].click()
 Window.sendKeys("{DEL 40}");
 Wait.forMilliseconds(1000);
 Window.sendKeys("HELLO!");
