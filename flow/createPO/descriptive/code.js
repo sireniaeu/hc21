@@ -31,3 +31,7 @@ Windows.sendKeys(args.price);
 Windows.sendKeys("{TAB}");
 Windows.sendKeys(args.quantity);
 Windows.sendKeys("{TAB}");
+Windows.sendKeys(args.quantity);
+Windows.sendKeys("{TAB}");
+Windows.sendKeys(args.quantity);
+Windows.sendKeys("{TAB}");
