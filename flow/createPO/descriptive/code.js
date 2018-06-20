@@ -41,7 +41,7 @@ Window.sendKeys(args.glcode);
 
 Fields["tableItem_OrderLine"].click();
 Wait.forMilliseconds(1000);
-
+tab
 Window.sendKeys("{DEL 40}");
 Wait.forMilliseconds(1000);
 Window.sendKeys("HELLO!");
