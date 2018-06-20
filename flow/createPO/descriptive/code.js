@@ -43,7 +43,7 @@ Fields["tableItem_OrderLine"].click();
 Wait.forMilliseconds(2000);
 Fields["tableItem_OrderLine_form"].click();
 Wait.forMilliseconds(2000);
-Window.sendKeys("{DEL 40}");
+Window.sendKeys("{ 40}");
 Wait.forMilliseconds(1000);
 Window.sendKeys(args.orderline);
 
