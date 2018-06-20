@@ -22,7 +22,7 @@ Window.sendKeys(args.scode);
 Wait.forMilliseconds(2000);
 
 Fields["input_po_ref"].click();
-Window.sendKeys(args.scode);
+Window.sendKeys(args.poref);
 Wait.forMilliseconds(2000);
 
 
