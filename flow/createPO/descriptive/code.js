@@ -9,3 +9,4 @@ args.scode = "AAS1878";
 
 Fields["input_scode"].click();
 Window.sendKeys(args.scode);
+
