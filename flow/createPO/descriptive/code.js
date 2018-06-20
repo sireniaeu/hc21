@@ -40,6 +40,6 @@ Window.sendKeys("{TAB}");
 Window.sendKeys(args.glcode);
 
 Fields["tableItem_OrderLine"].click();
-Window.sendKeys("{DEL }");
+Window.sendKeys("{DEL 20}");
 Window.sendKeys(args.glcode);
 
