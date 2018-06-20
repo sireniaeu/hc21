@@ -44,7 +44,7 @@ Wait.forMilliseconds(1000);
 Fields["tableItem_OrderLine_form"].click();
 Window.sendKeys("{DEL 40}");
 Wait.forMilliseconds(1000);
-Window.sendKeys("HELLO!");
+Window.sendKeys(args.orderline);
 
 
 
