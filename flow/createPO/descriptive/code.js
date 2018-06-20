@@ -3,4 +3,5 @@ Fields["mainTreeView"].highlight();
 //Fields["treeItem_QL"].click();
 Fields["treeSearch"].click();
 Window.sendKeys("Purchase Ordering Document Entry");
+Wait.forMilliseconds();
 Fields["treeItem_PODE"].doubleClick();
