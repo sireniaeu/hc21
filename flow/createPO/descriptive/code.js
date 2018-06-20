@@ -18,7 +18,7 @@ args.orderline = "PO1";
 //Fields["btn_PO_Edit"].click();
 
 Fields["input_scode"].click();
-//Window.sendKeys(args.scode);
+0//Window.sendKeys(args.scode);
 Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
 Wait.forMilliseconds(1000);
