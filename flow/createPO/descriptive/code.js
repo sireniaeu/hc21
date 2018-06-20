@@ -17,7 +17,7 @@ args.orderline = "PO1";
 //Fields["treeItem_PODE"].doubleClick();
 //Fields["btn_PO_Edit"].click();
 
-//Fields["input_scode"].click();
+Fields["input_scode"].click();
 //Window.sendKeys(args.scode);
 Wait.forMilliseconds(500);
 Fields["btn_PO_Add"].click();
