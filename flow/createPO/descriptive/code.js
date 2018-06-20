@@ -23,3 +23,11 @@ Fields["btn_PO_Add"].click();
 
 Windows.sendKeys(args.warehouse);
 Windows.sendKeys("{TAB}");
+Windows.sendKeys(args.warehouse);
+Windows.sendKeys("{TAB}");
+Windows.sendKeys(args.warehouse);
+Windows.sendKeys("{TAB}");
+Windows.sendKeys(args.warehouse);
+Windows.sendKeys("{TAB}");
+Windows.sendKeys(args.warehouse);
+Windows.sendKeys("{TAB}");
