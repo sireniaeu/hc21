@@ -1,4 +1,4 @@
-var agrs = 
+var agrs = {}
 
 //Fields["treeSearch"].click();
 //Window.sendKeys("Purchase Ordering Document Entry");
