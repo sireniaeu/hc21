@@ -25,7 +25,7 @@ Window.sendKeys(args.warehouse);
 Wait.forMilliseconds(2000);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.product);
-Wait.forMilliseconds(500);
+Wait.forMilliseconds(2000);
 Window.sendKeys("{TAB}");
 Window.sendKeys(args.taxcode);
 Wait.forMilliseconds(500);
