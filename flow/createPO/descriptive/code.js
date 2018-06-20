@@ -8,4 +8,4 @@ args.scode = "AAS1878";
 //Fields["btn_PO_Edit"].click();
 
 Fields["input_scode"].click();
-Window.sendKeys();
+Window.sendKeys(args.scode);
